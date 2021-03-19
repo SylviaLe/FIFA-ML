@@ -204,11 +204,15 @@ Additional match statistics (corners, shots, bookings, referee etc.) for the 200
 +++++++++++++++++++++++++++++++++++++++++
 QUESTION WE WANT TO ANSWER:
 
-
+What player attributes contribute most to team/player success?
+What types of players are making the most money? (types meaning players with similar attributes, positions, salaries, etc.)
+What is the ideal distribution of funds amongst players to have a successful team?
+Is it worth paying the best players as much as they make?
+Can we predict players' worth based on attributes?
 
 
 
 +++++++++++++++++++++++++++++++++++++++++
-RESPONSE VARIABLE:
+Response Variables: salary, overall rating, position, player attributes (ex. preferred foot, shooting skill, passing skill, dribbling skill, etc.)
 
-INDEPENDENT VARIABLE:
+Explanatory Variables: pace, shooting, passing, position, dob, defending, physic, gk_diving
