@@ -1,0 +1,307 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+P1,10.08.2018,SL Benfica,Vitória Guimarães,3,2,H,3,0,H,9,9,7,5,15,24,5,2,0,4,0,0
+P1,11.08.2018,FC Porto,GD Chaves,5,0,H,3,0,H,14,2,6,0,11,12,7,0,0,2,0,1
+P1,11.08.2018,Vitória de Setúbal,CD Aves,2,0,H,1,0,H,13,2,5,1,17,16,9,3,2,3,0,2
+P1,11.08.2018,CD Tondela,Os Belenenses,0,1,A,0,0,D,14,6,4,3,15,13,10,5,2,2,1,0
+P1,12.08.2018,CD Feirense,Rio Ave FC,2,0,H,2,0,H,12,7,5,1,17,9,3,4,1,2,0,0
+P1,12.08.2018,Clube Sport Marítimo,Santa Clara,1,0,H,0,0,D,10,9,4,5,16,9,7,3,0,3,0,0
+P1,12.08.2018,Moreirense FC,Sporting CP,1,3,A,1,1,D,3,6,3,4,21,15,6,4,5,5,0,0
+P1,12.08.2018,SC Braga,CD Nacional,4,2,H,2,2,D,16,10,12,8,10,15,4,2,1,3,0,0
+P1,13.08.2018,Portimonense SC,Boavista FC,0,2,A,0,0,D,8,9,3,4,19,27,9,4,1,4,0,0
+P1,17.08.2018,CD Aves,CD Tondela,2,2,D,1,1,D,16,12,6,5,15,13,5,9,3,3,0,0
+P1,18.08.2018,Boavista FC,SL Benfica,0,2,A,0,1,A,4,17,1,8,12,21,2,9,4,1,0,0
+P1,18.08.2018,GD Chaves,Portimonense SC,2,0,H,2,0,H,12,9,5,2,16,21,2,11,3,4,0,0
+P1,18.08.2018,Sporting CP,Vitória de Setúbal,2,1,H,1,1,D,17,9,5,3,20,29,7,3,2,5,0,0
+P1,19.08.2018,Os Belenenses,FC Porto,2,3,A,0,1,A,12,16,5,6,17,11,6,5,2,3,0,0
+P1,19.08.2018,CD Nacional,Moreirense FC,1,2,A,0,1,A,17,14,8,8,11,24,8,2,0,5,0,0
+P1,19.08.2018,Rio Ave FC,Clube Sport Marítimo,3,1,H,2,0,H,13,16,5,4,11,23,4,3,1,3,0,0
+P1,19.08.2018,Santa Clara,SC Braga,3,3,D,0,3,A,12,14,8,8,13,8,5,4,2,3,0,0
+P1,20.08.2018,Vitória Guimarães,CD Feirense,0,1,A,0,0,D,10,7,3,4,17,21,8,5,1,3,0,0
+P1,24.08.2018,Clube Sport Marítimo,GD Chaves,2,1,H,0,1,A,13,10,6,3,12,9,5,2,4,4,0,0
+P1,25.08.2018,SL Benfica,Sporting CP,1,1,D,0,0,D,19,11,10,4,14,17,11,1,4,5,0,0
+P1,25.08.2018,Portimonense SC,Santa Clara,2,2,D,0,1,A,26,9,11,3,13,23,6,5,0,3,0,0
+P1,25.08.2018,FC Porto,Vitória Guimarães,2,3,A,2,0,H,18,8,10,3,16,12,8,3,3,2,0,0
+P1,26.08.2018,CD Feirense,Boavista FC,1,1,D,0,1,A,17,7,5,4,15,25,4,1,2,5,0,1
+P1,26.08.2018,Vitória de Setúbal,CD Nacional,1,2,A,0,1,A,11,11,4,4,17,26,4,2,4,5,1,0
+P1,26.08.2018,SC Braga,CD Aves,3,1,H,0,0,D,20,8,6,4,12,18,9,1,1,4,0,0
+P1,26.08.2018,CD Tondela,Rio Ave FC,1,1,D,0,1,A,12,14,5,4,23,6,3,7,2,2,1,0
+P1,27.08.2018,Moreirense FC,Os Belenenses,1,1,D,0,0,D,17,9,7,3,22,11,8,1,2,2,0,0
+P1,31.08.2018,GD Chaves,SC Braga,0,1,A,0,1,A,17,9,2,3,19,22,9,4,2,5,0,0
+P1,31.08.2018,Vitória Guimarães,CD Tondela,1,0,H,1,0,H,6,9,2,3,18,17,2,10,2,1,0,1
+P1,1.09.2018,Os Belenenses,Vitória de Setúbal,0,0,D,0,0,D,8,6,4,2,20,13,2,5,0,1,0,0
+P1,1.09.2018,Santa Clara,Boavista FC,4,2,H,1,1,D,11,15,5,6,22,19,9,6,4,3,0,0
+P1,1.09.2018,Sporting CP,CD Feirense,1,0,H,0,0,D,26,6,12,2,21,15,9,0,4,6,0,0
+P1,2.09.2018,CD Aves,Clube Sport Marítimo,0,1,A,0,1,A,12,16,2,3,22,15,4,4,2,3,0,0
+P1,2.09.2018,CD Nacional,SL Benfica,0,4,A,0,2,A,5,16,2,7,7,15,2,5,1,3,0,0
+P1,2.09.2018,FC Porto,Moreirense FC,3,0,H,2,0,H,15,7,5,3,16,11,11,4,2,1,0,0
+P1,2.09.2018,Rio Ave FC,Portimonense SC,2,1,H,0,1,A,22,11,5,4,13,16,8,3,3,2,0,2
+P1,21.09.2018,Boavista FC,GD Chaves,1,2,A,0,1,A,19,7,4,3,15,17,10,2,3,4,0,0
+P1,22.09.2018,Clube Sport Marítimo,Os Belenenses,0,0,D,0,0,D,10,16,3,5,12,16,7,9,1,1,0,0
+P1,22.09.2018,Santa Clara,Rio Ave FC,1,3,A,0,0,D,20,10,8,4,22,12,11,3,2,4,1,1
+P1,22.09.2018,Vitória de Setúbal,FC Porto,0,2,A,0,1,A,10,11,2,4,13,16,6,2,1,2,0,0
+P1,23.09.2018,SL Benfica,CD Aves,2,0,H,1,0,H,26,12,7,4,15,18,13,3,1,4,0,0
+P1,23.09.2018,CD Feirense,CD Nacional,0,0,D,0,0,D,4,10,0,2,14,25,4,3,2,2,0,0
+P1,23.09.2018,Portimonense SC,Vitória Guimarães,3,2,H,1,0,H,13,9,6,3,19,12,5,6,2,4,0,0
+P1,23.09.2018,CD Tondela,Moreirense FC,2,0,H,1,0,H,9,12,4,0,17,15,0,6,0,0,0,0
+P1,24.09.2018,SC Braga,Sporting CP,1,0,H,0,0,D,13,12,4,3,10,11,5,4,1,2,0,0
+P1,27.09.2018,GD Chaves,SL Benfica,2,2,D,0,1,A,10,12,5,5,12,21,3,3,3,1,0,1
+P1,28.09.2018,FC Porto,CD Tondela,1,0,H,0,0,D,31,7,9,0,19,22,11,2,3,5,0,0
+P1,29.09.2018,Moreirense FC,CD Feirense,1,0,H,0,0,D,19,6,5,2,22,16,7,6,1,2,0,0
+P1,29.09.2018,Rio Ave FC,Boavista FC,2,1,H,2,0,H,19,15,4,5,16,18,7,9,2,3,0,1
+P1,29.09.2018,Sporting CP,Clube Sport Marítimo,2,0,H,2,0,H,12,7,3,1,14,14,4,1,2,3,0,0
+P1,30.09.2018,Os Belenenses,SC Braga,0,3,A,0,2,A,8,18,0,8,10,7,6,4,4,0,0,0
+P1,30.09.2018,Vitória Guimarães,Vitória de Setúbal,1,1,D,0,0,D,14,15,5,4,15,16,3,3,2,3,0,0
+P1,30.09.2018,CD Nacional,Santa Clara,0,3,A,0,1,A,12,12,1,4,7,18,6,10,1,2,0,0
+P1,1.10.2018,CD Aves,Portimonense SC,3,0,H,1,0,H,12,17,4,2,12,10,6,5,2,1,0,0
+P1,5.10.2018,CD Feirense,Os Belenenses,0,0,D,0,0,D,11,9,1,1,18,17,10,2,3,2,0,0
+P1,5.10.2018,Santa Clara,GD Chaves,1,0,H,0,0,D,12,8,4,2,17,9,7,7,2,1,0,0
+P1,5.10.2018,CD Tondela,CD Nacional,1,1,D,0,0,D,16,16,3,4,11,10,3,7,1,2,0,0
+P1,6.10.2018,Clube Sport Marítimo,Vitória Guimarães,1,3,A,0,1,A,20,15,5,6,15,10,7,6,1,0,0,0
+P1,6.10.2018,Vitória de Setúbal,Moreirense FC,3,0,H,1,0,H,12,11,5,3,23,20,3,2,2,3,0,2
+P1,6.10.2018,SC Braga,Rio Ave FC,1,1,D,1,1,D,13,8,5,3,26,11,4,7,4,4,1,0
+P1,7.10.2018,SL Benfica,FC Porto,1,0,H,0,0,D,10,11,2,1,24,20,2,4,4,5,1,0
+P1,7.10.2018,Boavista FC,CD Aves,1,0,H,0,0,D,20,11,5,2,12,23,11,4,3,4,0,0
+P1,7.10.2018,Portimonense SC,Sporting CP,4,2,H,2,0,H,12,17,6,5,22,14,5,5,5,1,0,0
+P1,26.10.2018,Vitória Guimarães,SC Braga,1,1,D,1,1,D,13,15,4,1,18,12,7,4,1,2,0,0
+P1,26.10.2018,CD Nacional,Portimonense SC,0,1,A,0,1,A,8,7,3,2,10,17,1,1,1,1,0,0
+P1,27.10.2018,CD Aves,Santa Clara,1,2,A,0,2,A,17,9,6,4,18,15,8,9,2,2,0,1
+P1,27.10.2018,Os Belenenses,SL Benfica,2,0,H,2,0,H,7,24,6,7,14,13,5,11,2,2,0,0
+P1,27.10.2018,Rio Ave FC,GD Chaves,1,0,H,0,0,D,7,12,5,2,18,23,3,8,3,3,0,0
+P1,28.10.2018,Moreirense FC,Clube Sport Marítimo,1,0,H,0,0,D,19,11,5,2,15,11,4,4,1,2,0,0
+P1,28.10.2018,FC Porto,CD Feirense,2,0,H,1,0,H,17,6,7,3,21,11,4,6,1,3,0,0
+P1,28.10.2018,Sporting CP,Boavista FC,3,0,H,1,0,H,21,10,9,1,12,13,9,4,2,3,0,0
+P1,28.10.2018,CD Tondela,Vitória de Setúbal,1,2,A,0,1,A,10,9,6,3,18,24,7,6,3,3,0,0
+P1,2.11.2018,SL Benfica,Moreirense FC,1,3,A,1,3,A,21,9,8,4,17,12,8,2,2,3,1,0
+P1,3.11.2018,Boavista FC,Vitória Guimarães,0,0,D,0,0,D,7,20,3,4,25,13,7,11,3,4,0,0
+P1,3.11.2018,Clube Sport Marítimo,FC Porto,0,2,A,0,0,D,6,15,2,4,16,15,4,11,4,2,1,0
+P1,3.11.2018,Portimonense SC,Os Belenenses,1,1,D,0,0,D,12,8,3,1,19,10,1,6,2,3,0,0
+P1,4.11.2018,CD Feirense,CD Tondela,2,4,A,1,1,D,12,15,5,7,17,22,7,5,4,3,0,0
+P1,4.11.2018,Santa Clara,Sporting CP,1,2,A,1,0,H,8,18,1,7,10,7,3,7,2,3,1,0
+P1,4.11.2018,SC Braga,Vitória de Setúbal,2,1,H,2,1,H,17,13,3,5,18,20,2,5,1,3,0,0
+P1,5.11.2018,GD Chaves,CD Aves,1,2,A,0,1,A,13,11,2,5,10,15,6,4,3,3,0,0
+P1,5.11.2018,Rio Ave FC,CD Nacional,3,3,D,2,1,H,13,13,5,6,13,17,3,3,2,5,0,0
+P1,9.11.2018,Moreirense FC,Portimonense SC,2,0,H,1,0,H,12,12,4,4,17,15,8,6,2,1,0,0
+P1,9.11.2018,Vitória de Setúbal,CD Feirense,2,1,H,1,1,D,10,6,2,1,20,20,7,3,4,4,0,0
+P1,10.11.2018,CD Aves,Rio Ave FC,2,1,H,2,0,H,19,11,8,5,22,11,13,4,3,3,0,1
+P1,10.11.2018,Os Belenenses,Boavista FC,0,0,D,0,0,D,12,11,2,3,23,26,4,2,5,6,0,0
+P1,10.11.2018,CD Nacional,Clube Sport Marítimo,1,0,H,0,0,D,16,9,3,2,12,22,0,3,3,2,0,0
+P1,10.11.2018,FC Porto,SC Braga,1,0,H,0,0,D,17,10,3,2,16,18,9,5,1,1,0,0
+P1,11.11.2018,Vitória Guimarães,Santa Clara,2,0,H,1,0,H,20,7,6,1,15,11,10,3,1,2,0,0
+P1,11.11.2018,Sporting CP,GD Chaves,2,1,H,1,0,H,17,3,5,1,11,10,10,2,1,2,0,1
+P1,11.11.2018,CD Tondela,SL Benfica,1,3,A,1,1,D,7,15,4,5,14,12,2,7,4,3,2,0
+P1,30.11.2018,Santa Clara,Os Belenenses,2,3,A,1,1,D,14,10,4,6,13,14,5,7,3,0,1,0
+P1,1.12.2018,SL Benfica,CD Feirense,4,0,H,0,0,D,15,3,7,1,17,14,7,0,2,2,0,0
+P1,1.12.2018,Clube Sport Marítimo,Vitória de Setúbal,0,1,A,0,0,D,12,10,3,4,17,22,4,6,1,2,0,0
+P1,1.12.2018,SC Braga,Moreirense FC,2,0,H,2,0,H,14,15,5,2,15,19,2,5,1,2,0,0
+P1,2.12.2018,CD Aves,CD Nacional,2,3,A,1,1,D,15,16,5,7,16,19,9,4,3,4,0,0
+P1,2.12.2018,Boavista FC,FC Porto,0,1,A,0,0,D,4,24,2,6,25,11,1,8,6,1,0,0
+P1,2.12.2018,GD Chaves,Vitória Guimarães,0,1,A,0,1,A,13,15,8,7,12,17,7,4,1,0,0,0
+P1,2.12.2018,Portimonense SC,CD Tondela,3,2,H,3,1,H,16,10,6,5,16,19,8,9,3,6,0,1
+P1,3.12.2018,Rio Ave FC,Sporting CP,1,3,A,1,2,A,12,20,4,6,11,27,6,11,3,5,0,0
+P1,7.12.2018,FC Porto,Portimonense SC,4,1,H,1,1,D,25,8,9,4,10,10,8,0,2,1,0,0
+P1,8.12.2018,Os Belenenses,GD Chaves,1,0,H,1,0,H,10,12,4,4,12,19,5,6,1,1,0,0
+P1,8.12.2018,Vitória de Setúbal,SL Benfica,0,1,A,0,1,A,14,12,3,3,23,20,3,5,3,4,0,0
+P1,8.12.2018,CD Tondela,SC Braga,0,1,A,0,1,A,8,6,3,3,15,19,6,2,3,1,0,0
+P1,9.12.2018,Vitória Guimarães,Rio Ave FC,3,2,H,2,1,H,12,11,7,3,23,14,3,7,4,2,0,0
+P1,9.12.2018,Moreirense FC,Santa Clara,0,1,A,0,0,D,11,11,3,3,21,14,9,6,5,4,1,0
+P1,9.12.2018,CD Nacional,Boavista FC,0,0,D,0,0,D,26,5,7,1,15,24,16,1,2,2,0,0
+P1,9.12.2018,Sporting CP,CD Aves,4,1,H,2,1,H,10,15,5,4,15,12,3,6,2,5,1,0
+P1,10.12.2018,CD Feirense,Clube Sport Marítimo,1,1,D,0,0,D,10,9,5,4,25,20,3,5,3,4,0,0
+P1,14.12.2018,Portimonense SC,Vitória de Setúbal,3,1,H,2,0,H,18,15,7,7,16,20,5,5,1,4,0,0
+P1,14.12.2018,SC Braga,CD Feirense,4,0,H,2,0,H,16,4,6,1,19,16,4,4,0,1,0,0
+P1,15.12.2018,CD Aves,Vitória Guimarães,1,1,D,1,1,D,15,13,5,6,20,14,10,5,2,0,0,0
+P1,15.12.2018,Boavista FC,CD Tondela,2,0,H,2,0,H,18,10,6,3,25,19,5,10,2,4,0,0
+P1,15.12.2018,GD Chaves,Moreirense FC,1,2,A,0,0,D,8,13,1,5,18,18,2,6,0,2,0,0
+P1,15.12.2018,Santa Clara,FC Porto,1,2,A,1,1,D,10,14,3,8,21,24,6,8,1,3,0,0
+P1,16.12.2018,Clube Sport Marítimo,SL Benfica,0,1,A,0,1,A,6,14,0,5,18,12,4,7,5,3,0,0
+P1,16.12.2018,Rio Ave FC,Os Belenenses,2,2,D,1,0,H,8,12,1,4,20,19,6,6,3,1,0,0
+P1,16.12.2018,Sporting CP,CD Nacional,5,2,H,1,2,A,20,15,9,5,26,9,6,7,3,3,0,0
+P1,22.12.2018,Os Belenenses,CD Aves,5,2,H,2,2,D,12,7,8,4,13,20,3,5,0,1,0,0
+P1,22.12.2018,CD Feirense,Portimonense SC,0,1,A,0,0,D,12,16,2,6,19,13,1,5,4,4,0,0
+P1,22.12.2018,Moreirense FC,Boavista FC,2,1,H,2,1,H,13,12,6,4,21,14,7,2,3,5,0,1
+P1,22.12.2018,Vitória de Setúbal,Santa Clara,0,2,A,0,1,A,8,10,5,3,31,16,5,2,4,4,0,0
+P1,22.12.2018,CD Tondela,Clube Sport Marítimo,2,1,H,1,1,D,15,10,6,2,16,19,6,3,4,3,0,1
+P1,23.12.2018,SL Benfica,SC Braga,6,2,H,2,0,H,13,11,8,5,15,17,8,2,1,3,0,0
+P1,23.12.2018,Vitória Guimarães,Sporting CP,1,0,H,1,0,H,19,17,7,2,13,15,10,7,3,3,0,0
+P1,23.12.2018,CD Nacional,GD Chaves,2,0,H,1,0,H,10,11,3,3,18,20,7,4,3,4,0,0
+P1,23.12.2018,FC Porto,Rio Ave FC,2,1,H,2,1,H,17,7,4,4,16,18,4,2,1,4,0,1
+P1,2.01.2019,Boavista FC,Vitória de Setúbal,1,0,H,0,0,D,12,16,3,7,19,19,4,7,6,4,2,0
+P1,2.01.2019,CD Nacional,Vitória Guimarães,1,0,H,1,0,H,11,6,3,2,17,15,4,3,3,4,0,0
+P1,2.01.2019,Portimonense SC,SL Benfica,2,0,H,2,0,H,9,14,5,3,15,13,3,8,2,2,0,1
+P1,2.01.2019,Rio Ave FC,Moreirense FC,1,2,A,1,0,H,12,15,3,4,12,17,5,10,3,3,0,0
+P1,2.01.2019,Santa Clara,CD Tondela,1,2,A,0,0,D,9,12,4,4,20,19,4,1,3,3,1,0
+P1,2.01.2019,SC Braga,Clube Sport Marítimo,2,0,H,2,0,H,14,6,5,1,14,17,6,1,2,1,0,0
+P1,3.01.2019,CD Aves,FC Porto,0,1,A,0,1,A,13,10,2,4,22,20,4,4,2,1,0,0
+P1,3.01.2019,GD Chaves,CD Feirense,0,0,D,0,0,D,12,6,4,1,14,26,7,5,2,3,0,0
+P1,3.01.2019,Sporting CP,Os Belenenses,2,1,H,0,0,D,12,11,4,4,12,5,4,1,3,4,0,0
+P1,5.01.2019,Clube Sport Marítimo,Portimonense SC,2,1,H,1,0,H,9,17,4,8,17,13,2,5,4,4,0,0
+P1,6.01.2019,Os Belenenses,Vitória Guimarães,1,0,H,1,0,H,5,16,4,2,17,13,1,5,0,1,0,0
+P1,6.01.2019,SL Benfica,Rio Ave FC,4,2,H,2,2,D,11,13,6,5,25,19,5,4,3,3,0,0
+P1,6.01.2019,CD Feirense,Santa Clara,2,2,D,0,1,A,6,11,4,3,23,15,8,6,4,2,0,0
+P1,6.01.2019,Vitória de Setúbal,GD Chaves,0,0,D,0,0,D,13,12,1,3,22,15,4,8,0,1,0,0
+P1,6.01.2019,SC Braga,Boavista FC,1,0,H,1,0,H,9,20,5,3,17,13,6,4,3,4,0,1
+P1,7.01.2019,Moreirense FC,CD Aves,1,0,H,0,0,D,17,8,9,4,12,13,5,2,1,1,0,0
+P1,7.01.2019,FC Porto,CD Nacional,3,1,H,2,1,H,13,8,4,3,17,10,6,6,0,0,0,0
+P1,7.01.2019,CD Tondela,Sporting CP,2,1,H,1,0,H,7,22,5,7,25,16,4,11,5,4,1,0
+P1,10.01.2019,Portimonense SC,SC Braga,1,1,D,1,0,H,11,14,5,6,14,11,4,9,3,2,1,0
+P1,11.01.2019,CD Aves,CD Feirense,1,1,D,1,0,H,21,7,7,3,18,25,6,1,0,3,0,0
+P1,11.01.2019,Vitória Guimarães,Moreirense FC,1,0,H,0,0,D,9,8,3,0,13,19,6,6,3,2,1,0
+P1,11.01.2019,Santa Clara,SL Benfica,0,2,A,0,1,A,7,20,5,4,13,16,2,6,3,3,1,0
+P1,12.01.2019,Boavista FC,Clube Sport Marítimo,0,1,A,0,0,D,23,8,4,3,20,17,8,3,2,3,0,0
+P1,12.01.2019,Sporting CP,FC Porto,0,0,D,0,0,D,12,9,3,1,23,19,7,3,4,4,0,0
+P1,13.01.2019,GD Chaves,CD Tondela,2,1,H,1,0,H,12,14,3,3,23,15,4,8,3,1,0,1
+P1,13.01.2019,CD Nacional,Os Belenenses,0,1,A,0,0,D,20,11,4,4,16,18,5,6,3,3,0,0
+P1,13.01.2019,Rio Ave FC,Vitória de Setúbal,1,1,D,1,0,H,8,14,6,8,17,29,1,9,5,6,1,0
+P1,18.01.2019,GD Chaves,FC Porto,1,4,A,0,2,A,10,15,3,6,20,10,5,6,1,2,0,0
+P1,18.01.2019,Vitória Guimarães,SL Benfica,0,1,A,0,0,D,10,11,2,3,13,11,6,6,4,2,0,0
+P1,18.01.2019,CD Nacional,SC Braga,0,3,A,0,0,D,4,15,0,6,25,13,2,4,2,2,0,0
+P1,19.01.2019,Os Belenenses,CD Tondela,2,2,D,1,2,A,13,13,4,3,19,22,2,4,3,0,0,0
+P1,19.01.2019,Santa Clara,Clube Sport Marítimo,0,1,A,0,1,A,13,12,1,4,18,19,11,2,1,6,0,0
+P1,19.01.2019,Sporting CP,Moreirense FC,2,1,H,2,1,H,10,7,4,2,14,8,2,4,2,2,0,0
+P1,20.01.2019,CD Aves,Vitória de Setúbal,2,1,H,1,0,H,16,6,4,1,21,15,9,9,1,4,0,1
+P1,20.01.2019,Boavista FC,Portimonense SC,0,2,A,0,1,A,13,12,1,4,16,11,6,1,1,1,0,0
+P1,20.01.2019,Rio Ave FC,CD Feirense,0,0,D,0,0,D,12,7,2,3,15,34,11,2,0,4,0,0
+P1,28.01.2019,CD Feirense,Vitória Guimarães,1,2,A,1,2,A,7,16,3,6,22,14,1,11,0,1,0,0
+P1,28.01.2019,Clube Sport Marítimo,Rio Ave FC,0,2,A,0,0,D,12,11,2,6,17,13,3,4,3,2,0,0
+P1,28.01.2019,Moreirense FC,CD Nacional,2,1,H,1,0,H,15,6,5,3,12,16,4,5,1,4,0,1
+P1,28.01.2019,CD Tondela,CD Aves,0,2,A,0,0,D,6,14,3,8,11,19,6,7,2,1,1,0
+P1,29.01.2019,SL Benfica,Boavista FC,5,1,H,2,1,H,18,7,9,3,17,15,16,4,0,1,0,0
+P1,29.01.2019,Portimonense SC,GD Chaves,0,1,A,0,1,A,14,10,4,5,18,12,8,5,4,6,0,0
+P1,29.01.2019,SC Braga,Santa Clara,1,0,H,0,0,D,16,12,2,2,19,16,5,4,2,1,0,0
+P1,30.01.2019,FC Porto,Os Belenenses,3,0,H,2,0,H,17,12,8,2,18,17,4,2,1,2,0,1
+P1,30.01.2019,Vitória de Setúbal,Sporting CP,1,1,D,1,0,H,10,23,5,9,20,18,4,9,4,6,0,1
+P1,1.02.2019,Rio Ave FC,CD Tondela,2,2,D,1,1,D,7,13,4,4,23,16,5,7,4,4,1,1
+P1,2.02.2019,CD Aves,SC Braga,0,2,A,0,0,D,7,13,0,5,20,13,3,5,3,4,0,0
+P1,2.02.2019,Boavista FC,CD Feirense,2,0,H,0,0,D,12,7,7,1,16,21,4,4,4,4,0,0
+P1,2.02.2019,GD Chaves,Clube Sport Marítimo,1,0,H,0,0,D,11,9,3,2,22,19,7,6,2,4,0,0
+P1,3.02.2019,Vitória Guimarães,FC Porto,0,0,D,0,0,D,8,22,3,6,19,19,1,9,1,4,0,0
+P1,3.02.2019,CD Nacional,Vitória de Setúbal,0,0,D,0,0,D,16,8,1,2,20,21,8,5,2,4,0,0
+P1,3.02.2019,Santa Clara,Portimonense SC,2,1,H,1,1,D,23,14,11,6,7,12,7,6,2,1,0,1
+P1,3.02.2019,Sporting CP,SL Benfica,2,4,A,1,2,A,17,13,6,7,21,26,5,4,5,2,0,1
+P1,4.02.2019,Os Belenenses,Moreirense FC,0,1,A,0,0,D,7,14,3,4,16,16,3,7,2,1,0,0
+P1,8.02.2019,Moreirense FC,FC Porto,1,1,D,0,0,D,14,13,2,3,19,9,4,8,4,0,0,0
+P1,9.02.2019,Clube Sport Marítimo,CD Aves,0,1,A,0,1,A,8,14,0,4,18,19,4,8,2,2,0,0
+P1,9.02.2019,Portimonense SC,Rio Ave FC,0,1,A,0,1,A,14,8,4,3,31,21,4,4,5,1,1,0
+P1,9.02.2019,CD Tondela,Vitória Guimarães,1,0,H,0,0,D,12,10,5,3,19,12,8,3,2,1,0,0
+P1,10.02.2019,SL Benfica,CD Nacional,10,0,H,3,0,H,24,5,14,2,13,13,8,2,1,0,0,0
+P1,10.02.2019,Boavista FC,Santa Clara,1,0,H,0,0,D,13,10,1,4,16,16,5,3,1,1,0,0
+P1,10.02.2019,CD Feirense,Sporting CP,1,3,A,0,1,A,10,6,5,5,19,25,8,6,6,2,0,0
+P1,10.02.2019,SC Braga,GD Chaves,2,1,H,0,0,D,15,9,6,2,10,10,8,3,2,2,0,0
+P1,11.02.2019,Vitória de Setúbal,Os Belenenses,0,0,D,0,0,D,8,9,3,2,26,18,5,2,2,3,0,1
+P1,15.02.2019,Rio Ave FC,Santa Clara,1,2,A,1,1,D,15,9,4,4,16,14,7,0,2,2,0,0
+P1,16.02.2019,Vitória Guimarães,Portimonense SC,2,0,H,1,0,H,14,9,9,1,13,23,2,3,2,4,0,0
+P1,16.02.2019,CD Nacional,CD Feirense,4,0,H,1,0,H,12,6,6,0,17,17,2,5,1,4,0,0
+P1,16.02.2019,FC Porto,Vitória de Setúbal,2,0,H,1,0,H,20,3,6,0,16,7,7,2,3,5,0,1
+P1,17.02.2019,Os Belenenses,Clube Sport Marítimo,0,1,A,0,0,D,15,14,1,5,14,17,6,3,4,1,0,0
+P1,17.02.2019,GD Chaves,Boavista FC,1,1,D,1,0,H,14,13,3,5,14,12,10,8,2,2,0,0
+P1,17.02.2019,Moreirense FC,CD Tondela,2,0,H,1,0,H,12,8,5,2,14,18,7,9,2,1,0,0
+P1,17.02.2019,Sporting CP,SC Braga,3,0,H,1,0,H,13,5,7,1,21,18,5,2,5,3,0,0
+P1,18.02.2019,CD Aves,SL Benfica,0,3,A,0,2,A,15,12,4,6,15,16,8,6,1,3,0,1
+P1,22.02.2019,SC Braga,Os Belenenses,0,2,A,0,1,A,17,6,5,4,10,10,12,3,1,3,0,0
+P1,22.02.2019,CD Tondela,FC Porto,0,3,A,0,1,A,11,15,2,5,13,25,3,6,1,1,0,0
+P1,23.02.2019,CD Feirense,Moreirense FC,1,3,A,0,2,A,11,10,4,5,24,17,5,5,2,0,0,0
+P1,23.02.2019,Portimonense SC,CD Aves,1,1,D,0,1,A,11,7,5,2,15,21,5,6,2,3,0,0
+P1,23.02.2019,Vitória de Setúbal,Vitória Guimarães,1,1,D,0,1,A,14,21,5,6,16,19,5,7,2,4,0,1
+P1,24.02.2019,Boavista FC,Rio Ave FC,1,0,H,1,0,H,7,16,5,4,21,20,4,10,4,5,0,2
+P1,24.02.2019,Santa Clara,CD Nacional,2,0,H,0,0,D,7,13,3,3,22,12,7,3,3,4,0,1
+P1,25.02.2019,SL Benfica,GD Chaves,4,0,H,3,0,H,25,5,11,2,12,14,5,2,3,3,0,0
+P1,25.02.2019,Clube Sport Marítimo,Sporting CP,0,0,D,0,0,D,6,17,2,5,17,11,1,7,5,5,0,1
+P1,1.03.2019,CD Aves,Boavista FC,2,0,H,0,0,D,22,3,7,1,14,19,4,3,2,3,0,0
+P1,2.03.2019,Moreirense FC,Vitória de Setúbal,1,1,D,1,1,D,14,5,2,1,19,16,8,3,2,4,1,0
+P1,2.03.2019,CD Nacional,CD Tondela,3,2,H,1,1,D,19,13,6,4,11,22,8,7,2,4,0,0
+P1,2.03.2019,FC Porto,SL Benfica,1,2,A,1,1,D,21,9,7,4,12,21,4,3,2,6,0,1
+P1,3.03.2019,Os Belenenses,CD Feirense,4,0,H,2,0,H,12,13,6,2,18,22,3,1,1,1,0,0
+P1,3.03.2019,GD Chaves,Santa Clara,0,0,D,0,0,D,11,7,2,1,22,18,9,3,2,3,0,0
+P1,3.03.2019,Rio Ave FC,SC Braga,1,2,A,0,0,D,8,14,2,3,11,17,1,6,3,4,1,0
+P1,3.03.2019,Sporting CP,Portimonense SC,3,1,H,2,1,H,15,15,5,7,20,18,8,7,3,2,0,0
+P1,4.03.2019,Vitória Guimarães,Clube Sport Marítimo,1,0,H,0,0,D,18,15,7,4,20,9,11,6,4,1,0,0
+P1,8.03.2019,GD Chaves,Rio Ave FC,1,1,D,0,1,A,20,7,5,1,18,17,11,5,4,8,0,1
+P1,9.03.2019,Boavista FC,Sporting CP,1,2,A,1,1,D,7,22,2,4,23,15,7,11,4,1,0,0
+P1,9.03.2019,Clube Sport Marítimo,Moreirense FC,3,2,H,1,2,A,12,15,4,5,24,17,4,4,2,1,0,0
+P1,9.03.2019,SC Braga,Vitória Guimarães,1,0,H,1,0,H,10,11,6,3,25,16,5,8,1,2,0,0
+P1,10.03.2019,CD Feirense,FC Porto,1,2,A,1,2,A,5,17,1,5,18,15,3,10,2,0,0,0
+P1,10.03.2019,Portimonense SC,CD Nacional,5,1,H,3,0,H,20,12,12,5,8,17,7,7,1,6,0,1
+P1,10.03.2019,Santa Clara,CD Aves,0,0,D,0,0,D,10,9,2,2,20,14,9,4,2,2,0,0
+P1,10.03.2019,Vitória de Setúbal,CD Tondela,0,0,D,0,0,D,11,5,2,0,16,12,7,6,3,7,0,1
+P1,11.03.2019,SL Benfica,Os Belenenses,2,2,D,0,0,D,22,8,2,3,12,15,7,1,0,5,0,1
+P1,15.03.2019,Sporting CP,Santa Clara,1,0,H,0,0,D,16,6,7,2,16,13,14,2,2,1,0,0
+P1,16.03.2019,Os Belenenses,Portimonense SC,2,2,D,0,2,A,10,17,4,6,14,16,7,4,1,1,0,0
+P1,16.03.2019,Vitória Guimarães,Boavista FC,3,1,H,1,0,H,16,10,10,3,18,18,6,2,2,1,0,0
+P1,16.03.2019,FC Porto,Clube Sport Marítimo,3,0,H,0,0,D,31,0,8,0,12,8,11,0,1,2,0,1
+P1,16.03.2019,Vitória de Setúbal,SC Braga,0,1,A,0,1,A,15,13,8,6,19,12,11,4,1,2,0,0
+P1,17.03.2019,CD Aves,GD Chaves,0,1,A,0,1,A,26,7,5,2,13,12,11,7,2,2,0,0
+P1,17.03.2019,Moreirense FC,SL Benfica,0,4,A,0,2,A,11,9,3,4,17,10,4,6,4,0,0,0
+P1,17.03.2019,CD Nacional,Rio Ave FC,0,1,A,0,1,A,19,4,5,2,15,17,13,2,2,2,0,0
+P1,17.03.2019,CD Tondela,CD Feirense,1,1,D,0,1,A,12,12,3,4,22,21,1,6,8,1,1,0
+P1,29.03.2019,Portimonense SC,Moreirense FC,0,2,A,0,1,A,23,13,8,5,14,14,9,6,3,1,0,0
+P1,30.03.2019,SL Benfica,CD Tondela,1,0,H,0,0,D,15,12,4,4,9,13,5,3,1,4,0,0
+P1,30.03.2019,GD Chaves,Sporting CP,1,3,A,0,1,A,8,19,2,7,13,11,6,6,5,2,1,1
+P1,30.03.2019,Santa Clara,Vitória Guimarães,1,0,H,1,0,H,9,11,4,2,11,15,4,4,3,1,0,0
+P1,30.03.2019,SC Braga,FC Porto,2,3,A,1,1,D,9,14,3,6,22,11,4,5,1,4,0,0
+P1,31.03.2019,Boavista FC,Os Belenenses,2,0,H,0,0,D,14,6,4,3,25,10,6,6,2,1,0,0
+P1,31.03.2019,Clube Sport Marítimo,CD Nacional,3,2,H,3,1,H,11,20,5,6,15,16,6,8,2,3,0,0
+P1,31.03.2019,Rio Ave FC,CD Aves,0,2,A,0,1,A,20,17,3,5,13,16,12,7,1,4,0,0
+P1,1.04.2019,CD Feirense,Vitória de Setúbal,0,1,A,0,0,D,16,9,3,3,13,16,5,5,1,2,1,0
+P1,5.04.2019,FC Porto,Boavista FC,2,0,H,1,0,H,17,5,7,1,15,17,8,0,0,2,0,0
+P1,6.04.2019,Os Belenenses,Santa Clara,1,1,D,1,1,D,8,15,2,1,13,17,1,2,2,5,1,0
+P1,6.04.2019,Vitória Guimarães,GD Chaves,4,0,H,3,0,H,13,18,6,6,12,13,4,9,0,1,0,0
+P1,6.04.2019,Moreirense FC,SC Braga,1,0,H,0,0,D,8,6,2,2,18,11,8,7,1,1,0,0
+P1,6.04.2019,CD Nacional,CD Aves,0,0,D,0,0,D,14,9,5,2,10,17,11,5,4,3,1,1
+P1,7.04.2019,CD Feirense,SL Benfica,1,4,A,1,2,A,6,18,1,7,14,11,3,5,2,0,0,0
+P1,7.04.2019,Vitória de Setúbal,Clube Sport Marítimo,1,0,H,1,0,H,13,5,4,2,20,20,8,4,2,1,0,0
+P1,7.04.2019,Sporting CP,Rio Ave FC,3,0,H,2,0,H,12,8,5,3,19,11,7,4,0,0,0,0
+P1,8.04.2019,CD Tondela,Portimonense SC,3,2,H,0,2,A,27,12,8,5,7,13,7,8,2,4,1,0
+P1,12.04.2019,GD Chaves,Os Belenenses,2,2,D,1,1,D,13,22,3,4,12,10,4,4,1,3,2,1
+P1,13.04.2019,CD Aves,Sporting CP,1,3,A,1,2,A,21,13,5,8,19,11,11,3,3,3,0,1
+P1,13.04.2019,Portimonense SC,FC Porto,0,3,A,0,1,A,9,11,1,5,14,19,3,7,4,2,0,0
+P1,13.04.2019,Santa Clara,Moreirense FC,1,1,D,1,1,D,11,16,6,5,18,11,6,4,2,0,0,1
+P1,14.04.2019,SL Benfica,Vitória de Setúbal,4,2,H,2,1,H,20,15,8,4,18,16,4,5,2,4,0,0
+P1,14.04.2019,Boavista FC,CD Nacional,1,0,H,1,0,H,15,14,6,0,19,8,9,10,1,1,0,0
+P1,14.04.2019,Clube Sport Marítimo,CD Feirense,2,0,H,2,0,H,8,5,2,2,13,16,2,5,4,8,0,2
+P1,14.04.2019,Rio Ave FC,Vitória Guimarães,2,1,H,1,0,H,8,13,7,7,26,16,8,3,4,3,1,0
+P1,14.04.2019,SC Braga,CD Tondela,3,0,H,1,0,H,20,9,8,0,14,12,5,2,2,2,0,0
+P1,19.04.2019,Vitória Guimarães,CD Aves,0,2,A,0,1,A,18,14,4,6,12,14,7,3,0,0,0,0
+P1,19.04.2019,CD Nacional,Sporting CP,0,1,A,0,0,D,3,23,1,10,8,13,2,9,2,3,0,0
+P1,19.04.2019,Vitória de Setúbal,Portimonense SC,1,1,D,0,0,D,10,11,2,5,18,13,6,5,2,4,0,0
+P1,19.04.2019,CD Tondela,Boavista FC,1,0,H,1,0,H,19,16,4,4,14,18,4,7,1,3,0,0
+P1,20.04.2019,Os Belenenses,Rio Ave FC,1,3,A,0,2,A,16,16,3,7,20,11,5,2,2,1,0,0
+P1,20.04.2019,CD Feirense,SC Braga,0,2,A,0,0,D,8,21,4,5,13,14,4,9,0,2,0,0
+P1,20.04.2019,Moreirense FC,GD Chaves,0,1,A,0,0,D,18,7,4,2,23,19,5,6,4,3,0,0
+P1,20.04.2019,FC Porto,Santa Clara,1,0,H,1,0,H,14,6,5,2,14,13,4,2,2,1,0,0
+P1,22.04.2019,SL Benfica,Clube Sport Marítimo,6,0,H,1,0,H,25,1,11,0,8,17,10,1,0,3,0,0
+P1,26.04.2019,Rio Ave FC,FC Porto,2,2,D,0,2,A,10,10,4,4,12,14,3,4,3,1,1,0
+P1,27.04.2019,CD Aves,Os Belenenses,3,0,H,0,0,D,14,10,8,3,14,12,6,2,2,4,0,0
+P1,27.04.2019,Portimonense SC,CD Feirense,1,0,H,1,0,H,18,5,6,3,13,12,5,2,2,0,1,1
+P1,27.04.2019,Santa Clara,Vitória de Setúbal,0,0,D,0,0,D,10,9,4,2,14,21,2,3,3,3,0,0
+P1,27.04.2019,Sporting CP,Vitória Guimarães,2,0,H,1,0,H,24,10,7,1,17,7,7,4,0,1,0,0
+P1,28.04.2019,Boavista FC,Moreirense FC,3,1,H,1,0,H,8,7,4,4,12,14,6,4,2,3,0,0
+P1,28.04.2019,GD Chaves,CD Nacional,4,1,H,2,1,H,12,17,4,4,17,15,1,11,2,2,0,0
+P1,28.04.2019,Clube Sport Marítimo,CD Tondela,2,0,H,1,0,H,8,9,2,3,9,7,3,11,2,0,0,0
+P1,28.04.2019,SC Braga,SL Benfica,1,4,A,1,0,H,12,17,3,9,14,16,5,5,4,6,0,0
+P1,3.05.2019,Moreirense FC,Rio Ave FC,1,2,A,1,1,D,14,6,6,2,16,21,5,1,2,3,0,0
+P1,4.05.2019,SL Benfica,Portimonense SC,5,1,H,0,0,D,19,11,12,5,10,11,7,1,0,0,0,0
+P1,4.05.2019,CD Feirense,GD Chaves,4,4,D,2,1,H,12,13,6,7,20,20,5,4,5,1,0,0
+P1,4.05.2019,Clube Sport Marítimo,SC Braga,1,0,H,0,0,D,6,20,3,5,10,10,3,13,0,1,1,0
+P1,4.05.2019,FC Porto,CD Aves,4,0,H,2,0,H,19,7,11,1,14,16,6,3,1,2,0,0
+P1,5.05.2019,Os Belenenses,Sporting CP,1,8,A,0,2,A,9,21,3,10,10,17,2,0,2,2,1,0
+P1,5.05.2019,Vitória Guimarães,CD Nacional,2,2,D,1,0,H,10,12,5,5,13,25,4,7,5,5,1,0
+P1,5.05.2019,CD Tondela,Santa Clara,1,3,A,0,1,A,15,10,7,4,18,11,8,3,1,3,0,0
+P1,6.05.2019,Vitória de Setúbal,Boavista FC,0,3,A,0,0,D,11,12,2,5,16,24,6,3,3,2,3,0
+P1,10.05.2019,CD Aves,Moreirense FC,0,1,A,0,0,D,12,7,4,3,8,17,4,5,2,2,0,0
+P1,11.05.2019,Boavista FC,SC Braga,4,2,H,3,2,H,14,25,6,9,19,23,2,9,4,1,0,0
+P1,11.05.2019,Portimonense SC,Clube Sport Marítimo,3,2,H,1,2,A,16,6,5,3,13,18,3,3,0,2,0,0
+P1,11.05.2019,Santa Clara,CD Feirense,4,4,D,2,3,A,11,9,5,6,13,18,6,7,1,2,0,0
+P1,11.05.2019,Sporting CP,CD Tondela,1,1,D,1,0,H,17,15,6,4,16,18,5,7,4,6,1,0
+P1,12.05.2019,GD Chaves,Vitória de Setúbal,1,2,A,0,2,A,9,8,2,4,21,14,7,6,4,4,0,0
+P1,12.05.2019,Vitória Guimarães,Os Belenenses,5,1,H,0,0,D,14,8,8,2,8,18,6,1,1,2,0,0
+P1,12.05.2019,CD Nacional,FC Porto,0,4,A,0,2,A,11,17,3,6,15,17,5,4,1,0,0,0
+P1,12.05.2019,Rio Ave FC,SL Benfica,2,3,A,0,2,A,12,13,6,6,9,11,5,2,3,4,0,0
+P1,16.05.2019,Os Belenenses,CD Nacional,3,0,H,1,0,H,9,18,5,4,17,15,5,7,2,3,0,0
+P1,17.05.2019,SC Braga,Portimonense SC,2,0,H,1,0,H,13,7,7,1,17,25,5,3,1,2,0,0
+P1,18.05.2019,SL Benfica,Santa Clara,4,1,H,3,0,H,21,17,8,3,10,3,4,8,0,1,0,0
+P1,18.05.2019,CD Feirense,CD Aves,2,1,H,0,1,A,17,15,8,4,20,14,5,4,3,1,0,0
+P1,18.05.2019,Clube Sport Marítimo,Boavista FC,0,1,A,0,1,A,17,9,5,3,18,16,7,3,1,3,0,0
+P1,18.05.2019,FC Porto,Sporting CP,2,1,H,0,0,D,29,2,8,1,18,11,17,1,4,4,1,1
+P1,18.05.2019,Vitória de Setúbal,Rio Ave FC,1,3,A,0,0,D,9,15,4,7,17,19,4,7,1,2,0,0
+P1,19.05.2019,Moreirense FC,Vitória Guimarães,1,3,A,1,1,D,16,14,6,6,23,17,12,2,3,2,0,0
+P1,19.05.2019,CD Tondela,GD Chaves,5,2,H,4,2,H,13,18,7,5,19,29,6,3,5,3,0,0

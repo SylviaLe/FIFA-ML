@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+B1,27.07.2018,Standard de Liège,KAA Gent,3,2,H,1,1,D,10,11,8,5,22,18,2,5,2,3,0,0
+B1,28.07.2018,KV Kortrijk,RSC Anderlecht,1,4,A,0,2,A,8,11,1,6,22,19,6,2,2,1,0,0
+B1,28.07.2018,KV Oostende,Royal Excel Mouscron,2,1,H,0,1,A,11,6,5,2,22,21,4,0,4,5,0,2
+B1,28.07.2018,Sint-Truidense VV,KSV Cercle Brugge,0,0,D,0,0,D,9,10,3,6,23,16,2,5,2,3,0,0
+B1,28.07.2018,SV Zulte-Waregem,Waasland-Beveren,2,2,D,1,0,H,8,6,5,4,19,18,5,4,3,2,0,0
+B1,29.07.2018,Sporting de Charleroi,Royal Antwerp FC,0,1,A,0,1,A,10,6,5,3,18,15,7,3,1,2,0,0
+B1,29.07.2018,Club Brugge KV,KAS Eupen,5,2,H,3,0,H,12,9,8,5,12,16,4,4,0,4,0,1
+B1,29.07.2018,Sporting Lokeren,KRC Genk,0,4,A,0,2,A,5,20,1,7,14,8,2,9,1,0,1,0
+B1,3.08.2018,Waasland-Beveren,Standard de Liège,0,0,D,0,0,D,7,19,4,11,15,11,3,10,3,1,0,1
+B1,4.08.2018,Royal Antwerp FC,KV Kortrijk,0,0,D,0,0,D,24,0,12,0,14,21,9,1,1,2,0,0
+B1,4.08.2018,KSV Cercle Brugge,Sporting Lokeren,3,2,H,2,1,H,18,7,10,3,13,13,5,0,2,4,0,0
+B1,4.08.2018,KAS Eupen,Sporting de Charleroi,1,4,A,1,2,A,11,11,6,9,12,14,3,3,1,0,1,0
+B1,4.08.2018,KAA Gent,SV Zulte-Waregem,1,1,D,0,0,D,12,5,3,3,15,19,9,4,3,3,0,0
+B1,5.08.2018,RSC Anderlecht,KV Oostende,5,2,H,0,0,D,11,6,5,2,18,21,6,1,2,2,0,0
+B1,5.08.2018,KRC Genk,Sint-Truidense VV,1,1,D,0,0,D,19,9,9,2,12,16,9,2,0,5,0,0
+B1,5.08.2018,Royal Excel Mouscron,Club Brugge KV,0,1,A,0,0,D,14,9,3,4,16,7,6,5,1,1,0,1
+B1,10.08.2018,Club Brugge KV,KV Kortrijk,3,0,H,2,0,H,12,3,6,2,18,24,8,5,1,1,0,0
+B1,11.08.2018,Royal Excel Mouscron,Royal Antwerp FC,0,1,A,0,0,D,1,19,0,6,9,17,1,5,1,2,0,0
+B1,11.08.2018,Sint-Truidense VV,Sporting Lokeren,1,1,D,0,0,D,20,4,6,2,12,22,7,2,0,6,0,0
+B1,11.08.2018,Standard de Liège,KSV Cercle Brugge,0,0,D,0,0,D,8,7,1,2,18,19,7,0,2,3,0,0
+B1,11.08.2018,SV Zulte-Waregem,KAS Eupen,4,0,H,2,0,H,16,6,11,4,11,18,5,3,0,3,0,0
+B1,12.08.2018,Sporting de Charleroi,RSC Anderlecht,1,2,A,1,1,D,13,8,7,5,21,20,3,3,2,5,0,0
+B1,12.08.2018,KAA Gent,Waasland-Beveren,4,1,H,1,0,H,19,17,10,7,15,5,11,3,1,2,0,0
+B1,12.08.2018,KV Oostende,KRC Genk,0,2,A,0,0,D,9,15,6,9,18,15,4,7,3,3,0,0
+B1,17.08.2018,RSC Anderlecht,Royal Excel Mouscron,2,0,H,1,0,H,16,7,8,3,14,22,11,5,1,4,1,0
+B1,18.08.2018,KSV Cercle Brugge,SV Zulte-Waregem,3,1,H,1,0,H,8,14,4,6,18,18,2,13,4,0,0,0
+B1,18.08.2018,KV Kortrijk,KV Oostende,1,2,A,0,1,A,14,6,6,4,20,10,8,4,3,3,1,0
+B1,18.08.2018,Sporting Lokeren,Standard de Liège,0,3,A,0,0,D,5,20,2,14,20,9,4,5,4,2,0,0
+B1,18.08.2018,Waasland-Beveren,Sint-Truidense VV,2,2,D,1,1,D,13,11,7,8,18,24,2,2,3,3,0,0
+B1,19.08.2018,Royal Antwerp FC,Club Brugge KV,1,1,D,0,0,D,5,9,1,4,27,16,3,3,3,0,0,0
+B1,19.08.2018,KAS Eupen,KAA Gent,2,3,A,1,2,A,11,8,4,4,23,15,6,8,2,5,0,1
+B1,19.08.2018,KRC Genk,Sporting de Charleroi,3,1,H,1,1,D,18,12,6,7,12,19,10,2,0,4,0,0
+B1,24.08.2018,KV Oostende,SV Zulte-Waregem,3,1,H,1,1,D,7,10,5,3,18,21,0,4,3,4,0,0
+B1,25.08.2018,Royal Antwerp FC,KSV Cercle Brugge,1,0,H,0,0,D,8,10,6,5,14,13,3,3,3,4,1,0
+B1,25.08.2018,Sporting de Charleroi,KV Kortrijk,0,2,A,0,1,A,7,8,1,4,12,19,8,1,0,5,0,0
+B1,25.08.2018,Royal Excel Mouscron,KAS Eupen,0,1,A,0,1,A,12,7,5,4,16,22,10,5,1,4,0,0
+B1,25.08.2018,Standard de Liège,Sint-Truidense VV,3,2,H,1,1,D,20,9,9,7,19,14,9,1,3,3,0,0
+B1,26.08.2018,Club Brugge KV,RSC Anderlecht,2,1,H,2,1,H,11,10,9,1,24,16,7,2,2,2,0,0
+B1,26.08.2018,KRC Genk,Waasland-Beveren,3,2,H,1,0,H,13,13,6,7,21,14,10,5,2,4,0,0
+B1,26.08.2018,KAA Gent,Sporting Lokeren,2,1,H,0,0,D,16,7,6,5,8,21,19,4,1,0,0,0
+B1,31.08.2018,SV Zulte-Waregem,Club Brugge KV,2,5,A,0,3,A,19,23,7,13,27,23,2,6,5,1,0,0
+B1,1.09.2018,Sporting de Charleroi,Royal Excel Mouscron,3,1,H,2,0,H,12,5,9,1,17,14,4,5,2,6,0,0
+B1,1.09.2018,KAS Eupen,Standard de Liège,2,1,H,0,1,A,10,5,5,3,11,2,2,5,1,2,0,0
+B1,1.09.2018,Sporting Lokeren,Waasland-Beveren,1,0,H,0,0,D,7,10,5,5,12,21,5,5,1,4,0,0
+B1,1.09.2018,Sint-Truidense VV,KV Oostende,1,0,H,0,0,D,13,6,5,3,18,14,6,3,2,2,0,0
+B1,2.09.2018,RSC Anderlecht,Royal Antwerp FC,1,1,D,1,0,H,9,9,4,2,18,19,4,5,1,3,0,0
+B1,2.09.2018,KSV Cercle Brugge,KAA Gent,0,3,A,0,1,A,1,8,0,7,17,17,7,5,4,3,0,0
+B1,2.09.2018,KV Kortrijk,KRC Genk,3,3,D,0,0,D,8,17,6,11,13,3,5,6,3,2,0,1
+B1,14.09.2018,Club Brugge KV,Sporting Lokeren,2,1,H,0,1,A,13,4,7,2,23,19,9,5,2,5,0,0
+B1,15.09.2018,KRC Genk,RSC Anderlecht,1,0,H,0,0,D,12,13,5,5,18,18,9,5,3,1,0,0
+B1,15.09.2018,KV Oostende,KSV Cercle Brugge,1,1,D,0,0,D,12,11,6,7,11,20,6,7,3,2,0,0
+B1,15.09.2018,Standard de Liège,Sporting de Charleroi,0,0,D,0,0,D,8,10,6,4,15,18,5,9,3,4,1,0
+B1,15.09.2018,Waasland-Beveren,KAS Eupen,0,0,D,0,0,D,15,7,6,3,18,23,2,7,4,2,0,0
+B1,16.09.2018,Royal Antwerp FC,SV Zulte-Waregem,5,1,H,3,0,H,15,5,6,2,17,10,4,1,2,0,0,1
+B1,16.09.2018,KAA Gent,Sint-Truidense VV,1,2,A,0,1,A,15,10,5,6,12,22,12,1,1,4,0,1
+B1,16.09.2018,Royal Excel Mouscron,KV Kortrijk,1,0,H,1,0,H,14,8,5,3,16,15,6,10,1,0,0,0
+B1,21.09.2018,SV Zulte-Waregem,KV Kortrijk,0,2,A,0,0,D,9,9,5,4,15,17,3,2,1,2,0,0
+B1,22.09.2018,KAS Eupen,KV Oostende,1,2,A,0,1,A,6,6,3,3,17,16,6,2,4,2,0,0
+B1,22.09.2018,Sporting Lokeren,Royal Excel Mouscron,0,0,D,0,0,D,7,13,1,6,16,16,3,11,2,2,0,0
+B1,22.09.2018,Sint-Truidense VV,Royal Antwerp FC,2,0,H,0,0,D,12,9,5,3,12,15,3,9,2,2,0,0
+B1,22.09.2018,Waasland-Beveren,Sporting de Charleroi,1,1,D,0,1,A,13,9,4,5,25,11,3,5,4,1,0,2
+B1,23.09.2018,RSC Anderlecht,Standard de Liège,2,1,H,0,1,A,13,7,7,3,14,19,10,4,2,2,0,0
+B1,23.09.2018,KSV Cercle Brugge,KRC Genk,2,5,A,1,2,A,7,15,3,7,7,5,1,4,2,2,0,0
+B1,23.09.2018,KAA Gent,Club Brugge KV,0,4,A,0,1,A,19,11,7,8,18,18,9,3,1,3,0,0
+B1,28.09.2018,KV Kortrijk,KAS Eupen,1,3,A,1,2,A,14,6,6,3,9,11,8,1,2,2,0,0
+B1,29.09.2018,Sporting de Charleroi,Sporting Lokeren,2,1,H,0,0,D,9,3,3,1,11,11,3,2,0,3,0,0
+B1,29.09.2018,Club Brugge KV,KSV Cercle Brugge,4,0,H,2,0,H,14,3,5,0,18,15,8,7,2,6,0,0
+B1,29.09.2018,KRC Genk,SV Zulte-Waregem,4,0,H,2,0,H,29,3,17,1,11,9,12,2,0,4,0,0
+B1,29.09.2018,Royal Excel Mouscron,Waasland-Beveren,0,3,A,0,2,A,10,9,4,5,16,15,6,2,2,3,0,0
+B1,30.09.2018,RSC Anderlecht,Sint-Truidense VV,0,0,D,0,0,D,21,2,7,0,17,11,11,0,1,0,0,1
+B1,30.09.2018,Royal Antwerp FC,KAA Gent,2,2,D,1,2,A,9,8,7,7,16,13,8,4,4,2,0,0
+B1,30.09.2018,KV Oostende,Standard de Liège,1,3,A,0,1,A,10,5,5,3,25,19,6,0,3,2,0,0
+B1,5.10.2018,KSV Cercle Brugge,Sporting de Charleroi,2,1,H,1,1,D,3,6,2,4,11,13,3,5,3,2,0,0
+B1,6.10.2018,KAS Eupen,Royal Antwerp FC,1,2,A,1,0,H,10,11,4,8,17,18,0,8,2,2,0,0
+B1,6.10.2018,Sporting Lokeren,KV Kortrijk,1,3,A,1,0,H,9,15,4,7,13,14,5,5,1,2,0,0
+B1,6.10.2018,Sint-Truidense VV,Royal Excel Mouscron,3,1,H,1,1,D,13,15,8,6,12,15,5,4,0,6,0,2
+B1,6.10.2018,Waasland-Beveren,KV Oostende,1,1,D,0,0,D,7,9,5,3,19,26,4,2,4,4,0,0
+B1,7.10.2018,KAA Gent,KRC Genk,1,5,A,1,3,A,10,13,5,8,11,16,4,13,4,0,1,0
+B1,7.10.2018,Standard de Liège,Club Brugge KV,3,1,H,1,0,H,18,6,8,3,12,13,6,1,0,2,0,0
+B1,7.10.2018,SV Zulte-Waregem,RSC Anderlecht,1,2,A,0,1,A,9,11,3,6,17,21,10,2,1,4,0,0
+B1,19.10.2018,Club Brugge KV,Waasland-Beveren,1,1,D,0,0,D,19,6,8,1,11,14,6,4,0,1,0,0
+B1,20.10.2018,Royal Antwerp FC,Sporting Lokeren,2,1,H,1,0,H,17,5,9,2,18,21,9,2,3,4,0,1
+B1,20.10.2018,KRC Genk,KAS Eupen,2,1,H,1,0,H,26,9,10,4,9,15,13,5,1,4,0,0
+B1,20.10.2018,KV Kortrijk,Sint-Truidense VV,3,1,H,2,1,H,16,10,7,7,14,8,5,5,1,0,0,0
+B1,20.10.2018,Royal Excel Mouscron,Standard de Liège,0,0,D,0,0,D,8,13,2,5,9,16,4,8,0,0,0,0
+B1,21.10.2018,RSC Anderlecht,KSV Cercle Brugge,4,2,H,2,0,H,12,7,7,4,17,23,7,4,2,4,0,0
+B1,21.10.2018,Sporting de Charleroi,SV Zulte-Waregem,3,2,H,1,0,H,11,9,8,4,10,10,2,6,2,3,0,0
+B1,21.10.2018,KV Oostende,KAA Gent,0,4,A,0,2,A,8,14,4,11,18,18,5,4,4,1,0,0
+B1,26.10.2018,KAA Gent,Sporting de Charleroi,2,1,H,1,1,D,12,6,6,4,16,23,7,2,2,4,0,0
+B1,27.10.2018,KSV Cercle Brugge,KV Kortrijk,1,1,D,0,1,A,7,14,2,8,17,12,6,10,1,1,0,0
+B1,27.10.2018,Sporting Lokeren,KV Oostende,0,0,D,0,0,D,9,16,3,10,16,12,3,7,1,1,0,0
+B1,27.10.2018,Sint-Truidense VV,Club Brugge KV,2,2,D,1,2,A,9,8,4,5,10,15,6,2,2,1,0,0
+B1,27.10.2018,SV Zulte-Waregem,Royal Excel Mouscron,2,2,D,2,1,H,8,12,6,4,11,19,8,3,2,2,0,0
+B1,28.10.2018,KAS Eupen,RSC Anderlecht,2,1,H,2,0,H,5,9,5,5,19,13,4,12,2,1,0,0
+B1,28.10.2018,Standard de Liège,KRC Genk,1,1,D,0,0,D,11,12,6,6,16,19,5,4,2,2,0,0
+B1,28.10.2018,Waasland-Beveren,Royal Antwerp FC,0,1,A,0,0,D,15,13,6,6,19,7,5,8,2,1,0,0
+B1,30.10.2018,Sporting de Charleroi,Sint-Truidense VV,1,0,H,0,0,D,14,9,8,4,7,16,6,2,1,2,0,0
+B1,30.10.2018,Club Brugge KV,KV Oostende,4,0,H,3,0,H,15,11,9,6,9,21,8,2,1,4,0,0
+B1,30.10.2018,Royal Excel Mouscron,KAA Gent,3,1,H,2,0,H,17,18,9,7,25,9,6,4,2,0,0,0
+B1,31.10.2018,Royal Antwerp FC,KRC Genk,2,4,A,2,0,H,12,18,8,12,15,12,5,6,3,3,0,0
+B1,31.10.2018,KAS Eupen,KSV Cercle Brugge,2,0,H,0,0,D,12,6,6,5,17,19,7,5,2,3,0,0
+B1,31.10.2018,KV Kortrijk,Waasland-Beveren,2,2,D,2,0,H,16,9,10,5,15,11,9,5,2,2,0,0
+B1,1.11.2018,RSC Anderlecht,Sporting Lokeren,1,1,D,0,0,D,11,5,4,3,15,19,5,4,0,1,0,0
+B1,1.11.2018,SV Zulte-Waregem,Standard de Liège,3,1,H,1,1,D,12,6,10,5,12,16,6,8,2,2,1,0
+B1,2.11.2018,KV Oostende,Sporting de Charleroi,2,1,H,1,0,H,8,12,4,3,21,14,3,6,3,1,0,0
+B1,3.11.2018,KSV Cercle Brugge,Royal Excel Mouscron,2,1,H,0,1,A,12,3,8,1,20,11,9,3,2,2,0,1
+B1,3.11.2018,KRC Genk,Club Brugge KV,1,1,D,1,0,H,6,12,3,4,9,20,4,3,0,2,0,0
+B1,3.11.2018,KAA Gent,KV Kortrijk,3,1,H,0,1,A,9,7,5,4,21,20,5,4,1,4,0,0
+B1,4.11.2018,Sporting Lokeren,KAS Eupen,2,0,H,2,0,H,9,9,6,4,16,12,2,9,0,0,0,0
+B1,4.11.2018,Sint-Truidense VV,SV Zulte-Waregem,2,1,H,0,1,A,12,6,6,3,11,19,1,6,3,2,0,1
+B1,4.11.2018,Standard de Liège,Royal Antwerp FC,0,2,A,0,1,A,8,5,2,2,12,19,2,2,2,5,0,0
+B1,4.11.2018,Waasland-Beveren,RSC Anderlecht,1,2,A,0,1,A,6,7,4,4,23,26,3,2,7,4,1,1
+B1,9.11.2018,Royal Antwerp FC,KV Oostende,2,0,H,1,0,H,19,7,9,5,20,13,9,4,3,2,0,1
+B1,10.11.2018,KSV Cercle Brugge,Waasland-Beveren,2,0,H,1,0,H,8,5,4,1,15,19,6,3,0,2,0,0
+B1,10.11.2018,Sporting de Charleroi,Club Brugge KV,2,1,H,1,1,D,7,5,6,4,15,17,4,5,1,1,0,0
+B1,10.11.2018,KAS Eupen,Sint-Truidense VV,1,4,A,0,2,A,7,6,2,6,20,18,5,3,3,2,0,0
+B1,10.11.2018,SV Zulte-Waregem,Sporting Lokeren,2,0,H,0,0,D,8,1,4,0,14,18,4,7,2,6,0,0
+B1,11.11.2018,RSC Anderlecht,KAA Gent,2,0,H,1,0,H,19,15,11,5,20,18,7,4,1,2,0,2
+B1,11.11.2018,KV Kortrijk,Standard de Liège,0,2,A,0,1,A,12,9,4,7,12,14,5,2,3,4,0,0
+B1,11.11.2018,Royal Excel Mouscron,KRC Genk,0,0,D,0,0,D,11,15,3,8,20,20,5,2,3,4,0,0
+B1,23.11.2018,Club Brugge KV,SV Zulte-Waregem,1,3,A,0,2,A,9,7,3,3,16,19,5,2,0,1,0,0
+B1,24.11.2018,KRC Genk,KSV Cercle Brugge,1,2,A,0,2,A,14,3,5,2,10,20,12,4,0,5,0,1
+B1,24.11.2018,KV Oostende,KV Kortrijk,1,2,A,1,1,D,11,10,6,6,9,13,2,11,1,1,0,0
+B1,24.11.2018,Standard de Liège,KAS Eupen,3,0,H,2,0,H,11,2,6,1,16,22,5,4,2,2,0,0
+B1,24.11.2018,Waasland-Beveren,Royal Excel Mouscron,1,2,A,0,1,A,12,13,5,7,20,16,3,7,2,4,0,0
+B1,25.11.2018,KAA Gent,Royal Antwerp FC,0,0,D,0,0,D,9,5,2,1,16,16,2,2,1,5,0,0
+B1,25.11.2018,Sporting Lokeren,Sporting de Charleroi,2,4,A,1,1,D,12,14,7,10,13,12,0,6,0,1,0,0
+B1,25.11.2018,Sint-Truidense VV,RSC Anderlecht,4,2,H,1,1,D,10,8,6,4,15,12,3,2,3,3,0,0
+B1,30.11.2018,Sporting Lokeren,KAA Gent,2,2,D,1,0,H,11,14,5,8,13,16,3,10,1,2,0,0
+B1,1.12.2018,Royal Antwerp FC,Sint-Truidense VV,1,3,A,1,2,A,9,10,4,4,16,13,9,7,2,4,0,0
+B1,1.12.2018,Sporting de Charleroi,KSV Cercle Brugge,3,1,H,1,0,H,15,4,7,1,19,16,2,3,2,3,0,0
+B1,1.12.2018,KV Kortrijk,Royal Excel Mouscron,1,0,H,1,0,H,5,8,3,5,20,14,2,4,3,2,0,0
+B1,1.12.2018,SV Zulte-Waregem,KV Oostende,1,1,D,1,0,H,7,8,2,4,13,21,6,4,2,2,0,0
+B1,2.12.2018,RSC Anderlecht,KRC Genk,0,1,A,0,0,D,10,6,4,2,21,24,3,1,4,2,0,0
+B1,2.12.2018,Club Brugge KV,Standard de Liège,3,0,H,3,0,H,11,3,8,1,15,21,5,5,2,4,0,1
+B1,2.12.2018,KAS Eupen,Waasland-Beveren,1,0,H,1,0,H,16,8,6,6,14,20,8,5,2,3,0,0
+B1,7.12.2018,Waasland-Beveren,Club Brugge KV,2,1,H,0,0,D,9,10,4,6,14,14,7,4,2,4,0,1
+B1,8.12.2018,KRC Genk,KV Kortrijk,1,1,D,1,1,D,19,8,6,4,8,20,4,2,2,5,0,0
+B1,8.12.2018,Royal Excel Mouscron,SV Zulte-Waregem,0,0,D,0,0,D,1,9,0,4,22,17,5,5,2,1,1,0
+B1,8.12.2018,KV Oostende,Sporting Lokeren,1,0,H,0,0,D,5,8,5,2,17,12,1,4,1,2,0,0
+B1,8.12.2018,Sint-Truidense VV,Standard de Liège,1,1,D,1,0,H,15,14,8,6,15,15,3,13,3,1,0,0
+B1,9.12.2018,RSC Anderlecht,Sporting de Charleroi,1,1,D,0,0,D,12,7,6,4,19,11,6,3,4,2,0,0
+B1,9.12.2018,KSV Cercle Brugge,Royal Antwerp FC,0,3,A,0,2,A,8,7,4,5,17,21,6,6,4,4,0,0
+B1,9.12.2018,KAA Gent,KAS Eupen,2,0,H,1,0,H,13,9,6,4,20,13,7,6,2,3,0,1
+B1,14.12.2018,Sporting de Charleroi,KAA Gent,2,0,H,0,0,D,6,7,4,4,12,14,1,4,2,4,0,0
+B1,15.12.2018,Royal Antwerp FC,Waasland-Beveren,0,2,A,0,0,D,13,4,3,3,10,21,13,6,4,4,0,0
+B1,15.12.2018,KAS Eupen,Royal Excel Mouscron,1,0,H,0,0,D,6,10,6,3,16,21,4,1,1,4,0,0
+B1,15.12.2018,KV Kortrijk,Club Brugge KV,0,0,D,0,0,D,8,10,3,7,14,18,6,5,5,3,0,0
+B1,15.12.2018,Sporting Lokeren,Sint-Truidense VV,2,0,H,1,0,H,9,8,5,6,16,7,4,7,2,1,0,0
+B1,16.12.2018,KSV Cercle Brugge,RSC Anderlecht,2,1,H,1,1,D,14,4,7,1,19,17,11,2,4,4,1,0
+B1,16.12.2018,KRC Genk,KV Oostende,2,0,H,1,0,H,22,3,10,2,6,12,13,3,0,2,0,0
+B1,16.12.2018,Standard de Liège,SV Zulte-Waregem,4,1,H,2,0,H,11,6,9,3,12,10,8,1,1,5,0,1
+B1,21.12.2018,KAA Gent,KSV Cercle Brugge,4,1,H,2,0,H,17,13,9,4,8,13,5,4,0,3,0,0
+B1,22.12.2018,Royal Excel Mouscron,RSC Anderlecht,3,1,H,2,0,H,13,7,7,4,17,13,4,3,3,3,0,0
+B1,22.12.2018,Sint-Truidense VV,KV Kortrijk,0,0,D,0,0,D,10,7,2,6,12,16,3,3,1,1,0,0
+B1,22.12.2018,Standard de Liège,KV Oostende,3,1,H,3,0,H,10,9,6,4,10,15,9,8,2,1,0,0
+B1,22.12.2018,Waasland-Beveren,Sporting Lokeren,2,1,H,1,0,H,8,6,5,4,15,16,5,5,1,1,0,0
+B1,23.12.2018,Club Brugge KV,Royal Antwerp FC,5,1,H,2,0,H,8,6,6,2,,,3,2,1,5,0,0
+B1,23.12.2018,KAS Eupen,KRC Genk,0,2,A,0,2,A,9,8,3,4,,,7,7,1,1,0,0
+B1,23.12.2018,SV Zulte-Waregem,Sporting de Charleroi,3,1,H,2,1,H,15,9,5,7,16,19,5,3,1,1,0,0
+B1,26.12.2018,Royal Antwerp FC,Royal Excel Mouscron,2,1,H,1,0,H,8,9,8,3,17,10,6,5,4,4,0,0
+B1,26.12.2018,KSV Cercle Brugge,KAS Eupen,0,1,A,0,1,A,7,8,4,2,30,19,1,0,4,3,0,0
+B1,26.12.2018,Sporting de Charleroi,Standard de Liège,0,1,A,0,1,A,14,6,4,4,13,21,2,9,6,7,0,0
+B1,26.12.2018,KRC Genk,KAA Gent,3,1,H,1,1,D,17,10,9,4,9,15,2,5,0,2,0,1
+B1,26.12.2018,KV Kortrijk,SV Zulte-Waregem,4,2,H,0,1,A,11,10,8,6,14,21,6,6,3,2,0,0
+B1,26.12.2018,KV Oostende,Sint-Truidense VV,1,1,D,1,1,D,10,3,5,3,19,9,3,4,3,4,0,0
+B1,27.12.2018,RSC Anderlecht,Waasland-Beveren,3,0,H,1,0,H,15,7,7,5,14,11,2,3,2,2,0,0
+B1,27.12.2018,Sporting Lokeren,Club Brugge KV,0,1,A,0,0,D,8,8,3,6,18,15,4,5,2,1,0,0
+B1,18.01.2019,Sint-Truidense VV,KRC Genk,2,3,A,1,1,D,7,11,5,8,19,25,2,5,1,4,0,0
+B1,19.01.2019,KAS Eupen,Sporting Lokeren,4,1,H,2,0,H,14,7,11,4,10,12,7,8,1,1,0,0
+B1,19.01.2019,Standard de Liège,KV Kortrijk,2,1,H,0,1,A,19,8,8,4,21,15,10,3,2,3,0,0
+B1,19.01.2019,Waasland-Beveren,KSV Cercle Brugge,1,1,D,0,0,D,11,16,3,10,15,20,4,5,0,1,1,0
+B1,19.01.2019,SV Zulte-Waregem,Royal Antwerp FC,1,2,A,0,1,A,11,7,3,7,15,23,10,4,0,3,0,0
+B1,20.01.2019,Club Brugge KV,Sporting de Charleroi,0,1,A,0,1,A,8,6,4,3,20,21,4,6,4,2,0,0
+B1,20.01.2019,KAA Gent,RSC Anderlecht,1,0,H,0,0,D,12,8,5,4,21,16,6,6,2,4,0,1
+B1,20.01.2019,Royal Excel Mouscron,KV Oostende,2,1,H,1,1,D,15,10,5,5,16,19,7,3,4,1,0,0
+B1,25.01.2019,Royal Antwerp FC,Standard de Liège,1,1,D,0,0,D,8,12,4,3,16,23,1,3,4,3,1,0
+B1,26.01.2019,KSV Cercle Brugge,Sint-Truidense VV,1,2,A,1,1,D,6,8,2,7,19,17,5,7,4,1,0,0
+B1,26.01.2019,Sporting de Charleroi,Waasland-Beveren,2,2,D,1,2,A,19,5,10,2,14,20,9,0,2,4,1,0
+B1,26.01.2019,KRC Genk,Royal Excel Mouscron,1,2,A,0,1,A,8,9,2,3,11,22,12,3,1,6,0,0
+B1,26.01.2019,Sporting Lokeren,SV Zulte-Waregem,0,3,A,0,2,A,6,8,4,6,17,18,1,3,3,3,0,0
+B1,27.01.2019,RSC Anderlecht,KAS Eupen,2,1,H,0,1,A,16,3,10,2,19,12,4,5,1,1,0,0
+B1,27.01.2019,KV Kortrijk,KAA Gent,1,2,A,1,1,D,9,10,5,5,18,19,11,2,3,2,0,0
+B1,27.01.2019,KV Oostende,Club Brugge KV,1,2,A,1,0,H,4,14,2,6,22,24,3,7,3,5,0,1
+B1,1.02.2019,Royal Excel Mouscron,Sporting de Charleroi,3,0,H,1,0,H,12,7,7,5,19,17,6,2,1,2,0,0
+B1,2.02.2019,KV Kortrijk,Sporting Lokeren,2,1,H,1,0,H,11,5,5,3,21,19,10,4,2,1,0,0
+B1,2.02.2019,KV Oostende,Royal Antwerp FC,0,2,A,0,1,A,8,18,4,7,16,22,5,5,3,4,0,0
+B1,2.02.2019,Waasland-Beveren,KRC Genk,1,2,A,1,0,H,8,18,5,9,17,13,2,11,4,1,0,0
+B1,2.02.2019,SV Zulte-Waregem,KSV Cercle Brugge,3,2,H,2,1,H,7,15,5,10,11,20,4,4,0,4,0,1
+B1,3.02.2019,Club Brugge KV,KAA Gent,1,1,D,0,1,A,14,8,9,4,19,21,10,9,3,5,1,1
+B1,3.02.2019,Sint-Truidense VV,KAS Eupen,4,1,H,2,1,H,14,9,5,3,12,20,4,9,2,3,0,0
+B1,3.02.2019,Standard de Liège,RSC Anderlecht,2,1,H,1,1,D,13,6,8,5,21,21,1,2,4,2,0,0
+B1,8.02.2019,KRC Genk,Standard de Liège,2,0,H,0,0,D,18,9,11,1,13,12,5,3,1,3,0,0
+B1,9.02.2019,Sporting de Charleroi,KV Oostende,1,1,D,0,0,D,20,7,7,4,15,24,10,1,1,4,0,0
+B1,9.02.2019,KAS Eupen,KV Kortrijk,0,1,A,0,1,A,7,7,2,4,10,17,6,7,1,1,0,0
+B1,9.02.2019,Sporting Lokeren,Royal Antwerp FC,2,1,H,1,0,H,10,14,7,8,12,21,3,7,3,0,0,0
+B1,9.02.2019,Sint-Truidense VV,Waasland-Beveren,2,1,H,1,1,D,13,4,6,3,17,14,7,5,0,2,0,0
+B1,10.02.2019,RSC Anderlecht,SV Zulte-Waregem,0,0,D,0,0,D,9,6,4,3,14,21,6,6,1,2,0,0
+B1,10.02.2019,KSV Cercle Brugge,Club Brugge KV,2,2,D,1,2,A,3,12,2,7,21,17,2,10,4,4,1,0
+B1,10.02.2019,KAA Gent,Royal Excel Mouscron,1,2,A,0,1,A,11,12,10,5,15,25,9,4,0,5,0,1
+B1,15.02.2019,Standard de Liège,Sporting Lokeren,3,1,H,2,0,H,14,13,13,9,10,8,9,5,0,0,0,0
+B1,16.02.2019,KV Kortrijk,Sporting de Charleroi,1,2,A,0,0,D,9,8,5,7,20,17,7,1,6,2,0,0
+B1,16.02.2019,KV Oostende,KAS Eupen,1,1,D,1,0,H,12,9,7,4,27,18,4,5,2,2,0,1
+B1,16.02.2019,Waasland-Beveren,KAA Gent,2,1,H,1,0,H,9,17,3,11,18,26,2,6,5,3,1,0
+B1,16.02.2019,SV Zulte-Waregem,Sint-Truidense VV,1,1,D,0,0,D,14,7,9,3,18,15,7,5,3,1,0,0
+B1,17.02.2019,Royal Antwerp FC,RSC Anderlecht,0,1,A,0,0,D,7,3,2,2,24,20,6,7,4,1,0,0
+B1,17.02.2019,Club Brugge KV,KRC Genk,3,1,H,2,0,H,8,6,6,6,25,23,5,4,0,0,0,0
+B1,17.02.2019,Royal Excel Mouscron,KSV Cercle Brugge,3,0,H,0,0,D,13,3,6,3,16,17,1,3,2,3,0,0
+B1,22.02.2019,KAA Gent,Standard de Liège,2,1,H,2,0,H,14,9,8,5,18,13,3,4,2,5,0,0
+B1,23.02.2019,KSV Cercle Brugge,KV Oostende,2,2,D,0,0,D,13,13,6,6,15,14,9,1,1,2,0,1
+B1,23.02.2019,KAS Eupen,SV Zulte-Waregem,2,3,A,1,1,D,11,20,5,9,25,15,7,9,3,3,0,1
+B1,23.02.2019,Royal Excel Mouscron,Sporting Lokeren,1,0,H,0,0,D,9,6,2,3,16,14,10,2,2,0,0,0
+B1,23.02.2019,Waasland-Beveren,KV Kortrijk,2,6,A,0,2,A,4,13,2,9,19,19,5,4,0,4,0,0
+B1,24.02.2019,RSC Anderlecht,Club Brugge KV,2,2,D,1,1,D,13,8,9,5,15,16,7,4,1,3,0,0
+B1,24.02.2019,KRC Genk,Royal Antwerp FC,0,0,D,0,0,D,14,7,7,3,15,17,10,2,2,5,0,0
+B1,24.02.2019,Sint-Truidense VV,Sporting de Charleroi,3,1,H,2,1,H,11,11,6,5,10,23,4,8,0,2,0,0
+B1,1.03.2019,Standard de Liège,Royal Excel Mouscron,1,1,D,0,0,D,11,12,8,7,16,19,7,3,2,3,0,0
+B1,2.03.2019,Sporting de Charleroi,KRC Genk,1,1,D,0,1,A,9,11,6,4,18,22,4,8,3,1,0,0
+B1,2.03.2019,Club Brugge KV,Sint-Truidense VV,1,0,H,0,0,D,11,8,7,0,17,19,9,4,2,6,0,0
+B1,2.03.2019,KV Kortrijk,KSV Cercle Brugge,2,1,H,0,1,A,14,14,7,3,15,18,8,6,3,2,0,0
+B1,2.03.2019,KV Oostende,Waasland-Beveren,1,1,D,0,0,D,13,19,7,9,18,9,8,7,3,0,0,0
+B1,3.03.2019,Royal Antwerp FC,KAS Eupen,2,1,H,0,0,D,14,6,7,5,20,21,7,4,4,2,0,0
+B1,3.03.2019,Sporting Lokeren,RSC Anderlecht,1,2,A,0,1,A,6,7,4,4,16,14,8,11,1,3,0,0
+B1,3.03.2019,SV Zulte-Waregem,KAA Gent,1,3,A,1,1,D,13,13,5,6,21,21,3,3,1,2,0,0
+B1,10.03.2019,RSC Anderlecht,KV Kortrijk,2,0,H,1,0,H,9,5,4,5,16,19,8,5,0,2,0,0
+B1,10.03.2019,Royal Antwerp FC,Sporting de Charleroi,1,2,A,1,1,D,9,6,3,3,15,15,4,7,0,3,0,1
+B1,10.03.2019,KSV Cercle Brugge,Standard de Liège,1,2,A,0,2,A,5,6,2,2,18,13,5,4,2,1,0,0
+B1,10.03.2019,KAS Eupen,Club Brugge KV,0,4,A,0,3,A,3,13,2,10,13,17,2,3,0,0,0,0
+B1,10.03.2019,KRC Genk,Sporting Lokeren,1,0,H,0,0,D,12,7,4,1,11,12,9,0,0,3,0,0
+B1,10.03.2019,KAA Gent,KV Oostende,2,1,H,1,1,D,19,6,6,2,16,6,8,3,1,0,0,0
+B1,10.03.2019,Royal Excel Mouscron,Sint-Truidense VV,1,1,D,1,1,D,11,16,3,10,18,19,5,9,4,2,2,0
+B1,10.03.2019,Waasland-Beveren,SV Zulte-Waregem,1,1,D,0,0,D,13,12,7,7,23,19,4,5,1,1,0,0
+B1,17.03.2019,Sporting de Charleroi,KAS Eupen,1,2,A,1,1,D,6,7,3,3,21,18,5,3,3,1,0,0
+B1,17.03.2019,Club Brugge KV,Royal Excel Mouscron,1,2,A,0,1,A,11,8,6,6,21,20,5,5,1,1,0,0
+B1,17.03.2019,KV Kortrijk,Royal Antwerp FC,2,0,H,0,0,D,6,11,3,4,22,14,3,8,2,2,0,0
+B1,17.03.2019,Sporting Lokeren,KSV Cercle Brugge,3,1,H,3,0,H,10,4,5,3,10,20,7,4,0,2,0,0
+B1,17.03.2019,KV Oostende,RSC Anderlecht,0,2,A,0,0,D,10,18,2,7,10,7,5,7,1,1,0,0
+B1,17.03.2019,Sint-Truidense VV,KAA Gent,0,2,A,0,1,A,15,14,6,6,12,23,6,7,1,2,0,0
+B1,17.03.2019,Standard de Liège,Waasland-Beveren,4,3,H,0,2,A,24,7,11,5,11,16,14,5,1,2,0,0
+B1,17.03.2019,SV Zulte-Waregem,KRC Genk,3,3,D,1,2,A,11,13,6,7,10,14,1,5,2,2,0,0

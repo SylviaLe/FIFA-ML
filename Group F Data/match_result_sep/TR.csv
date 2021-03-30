@@ -1,0 +1,307 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+T1,10.08.2018,MKE Ankaragücü,Galatasaray SK,1,3,A,1,2,A,3,12,1,4,15,9,2,4,2,2,0,0
+T1,11.08.2018,Fenerbahçe SK,Bursaspor,2,1,H,2,1,H,7,6,2,3,12,15,4,4,3,3,0,0
+T1,11.08.2018,Çaykur Rizespor,Kasimpaþa SK,2,3,A,1,0,H,8,14,5,6,13,14,3,6,2,1,0,0
+T1,11.08.2018,Sivasspor,Alanyaspor,1,0,H,0,0,D,12,9,5,3,13,16,4,7,1,3,0,0
+T1,12.08.2018,Beþiktaþ JK,Akhisar Belediyespor,2,1,H,2,0,H,13,8,4,4,17,16,12,3,3,6,0,0
+T1,12.08.2018,Medipol Baþakþehir FK,Trabzonspor,2,0,H,1,0,H,15,8,5,0,16,15,9,2,2,2,0,0
+T1,12.08.2018,Göztepe SK,Yeni Malatyaspor,1,3,A,0,1,A,10,6,4,3,11,11,4,0,4,5,2,1
+T1,12.08.2018,Atiker Konyaspor,BB Erzurumspor,3,2,H,2,1,H,16,6,9,4,11,14,4,7,1,2,0,0
+T1,13.08.2018,Kayserispor,Antalyaspor,2,0,H,1,0,H,8,4,5,1,16,8,6,2,0,2,0,1
+T1,17.08.2018,Trabzonspor,Sivasspor,3,1,H,3,1,H,10,12,8,3,12,19,8,5,1,4,0,0
+T1,18.08.2018,Antalyaspor,Atiker Konyaspor,3,3,D,1,2,A,12,10,9,4,17,19,7,3,1,5,0,1
+T1,18.08.2018,Bursaspor,Kayserispor,0,0,D,0,0,D,9,4,2,0,11,12,6,4,2,2,0,0
+T1,18.08.2018,Yeni Malatyaspor,Fenerbahçe SK,1,0,H,0,0,D,14,13,2,4,14,9,2,3,2,0,0,0
+T1,19.08.2018,Akhisar Belediyespor,Çaykur Rizespor,1,1,D,0,1,A,8,24,3,10,18,14,4,3,0,1,1,0
+T1,19.08.2018,Alanyaspor,MKE Ankaragücü,0,2,A,0,0,D,19,5,5,4,19,15,6,2,3,6,1,1
+T1,19.08.2018,BB Erzurumspor,Beþiktaþ JK,1,3,A,1,0,H,10,10,3,6,11,7,9,9,0,3,0,0
+T1,19.08.2018,Galatasaray SK,Göztepe SK,1,0,H,1,0,H,11,9,5,2,13,14,6,6,4,2,0,0
+T1,20.08.2018,Kasimpaþa SK,Medipol Baþakþehir FK,2,1,H,0,0,D,13,15,3,5,18,16,5,2,0,3,0,0
+T1,24.08.2018,Çaykur Rizespor,BB Erzurumspor,0,0,D,0,0,D,9,11,2,3,9,20,4,7,1,1,0,0
+T1,25.08.2018,MKE Ankaragücü,Trabzonspor,2,2,D,1,1,D,15,9,6,7,11,12,5,9,2,2,0,0
+T1,25.08.2018,Göztepe SK,Fenerbahçe SK,1,0,H,0,0,D,5,9,1,1,16,16,4,5,2,1,0,0
+T1,25.08.2018,Kayserispor,Yeni Malatyaspor,0,0,D,0,0,D,13,6,5,2,15,13,4,6,2,1,0,0
+T1,26.08.2018,Beþiktaþ JK,Antalyaspor,2,3,A,1,3,A,28,7,10,5,15,19,12,1,2,7,0,0
+T1,26.08.2018,Atiker Konyaspor,Bursaspor,1,1,D,1,1,D,16,12,6,4,18,14,11,6,2,3,0,0
+T1,26.08.2018,Sivasspor,Kasimpaþa SK,0,3,A,0,1,A,31,9,3,6,8,9,7,2,0,3,0,0
+T1,27.08.2018,Medipol Baþakþehir FK,Akhisar Belediyespor,3,1,H,1,1,D,19,9,6,2,9,14,6,2,2,4,0,0
+T1,27.08.2018,Galatasaray SK,Alanyaspor,6,0,H,1,0,H,17,4,9,1,12,7,4,1,0,1,0,0
+T1,31.08.2018,Yeni Malatyaspor,Atiker Konyaspor,0,1,A,0,1,A,11,6,3,4,9,23,3,1,2,4,0,0
+T1,1.09.2018,Akhisar Belediyespor,Sivasspor,1,1,D,0,0,D,22,11,6,4,19,17,5,1,1,3,0,0
+T1,1.09.2018,Alanyaspor,Göztepe SK,1,0,H,0,0,D,9,10,2,2,16,12,5,8,2,2,0,0
+T1,1.09.2018,Fenerbahçe SK,Kayserispor,2,3,A,1,0,H,15,20,4,11,11,12,4,4,4,2,0,1
+T1,1.09.2018,Trabzonspor,Galatasaray SK,4,0,H,3,0,H,13,8,6,0,11,7,1,1,2,1,0,1
+T1,2.09.2018,Antalyaspor,Çaykur Rizespor,2,1,H,0,1,A,13,6,4,2,12,13,5,5,3,3,1,1
+T1,2.09.2018,Bursaspor,Beþiktaþ JK,1,1,D,0,0,D,9,11,3,4,14,15,4,3,2,2,0,0
+T1,2.09.2018,BB Erzurumspor,Medipol Baþakþehir FK,0,1,A,0,1,A,16,5,3,2,13,11,8,2,3,1,0,0
+T1,2.09.2018,Kasimpaþa SK,MKE Ankaragücü,2,1,H,1,0,H,10,15,4,7,8,11,5,6,1,3,0,0
+T1,14.09.2018,Galatasaray SK,Kasimpaþa SK,4,1,H,0,0,D,15,16,5,6,11,14,4,7,1,2,0,0
+T1,15.09.2018,MKE Ankaragücü,Akhisar Belediyespor,1,0,H,1,0,H,7,12,1,4,19,11,2,12,2,3,0,0
+T1,15.09.2018,Beþiktaþ JK,Yeni Malatyaspor,2,1,H,0,0,D,17,10,6,6,14,15,10,5,3,3,1,0
+T1,15.09.2018,Göztepe SK,Kayserispor,2,0,H,2,0,H,16,9,6,1,11,10,4,1,1,2,0,0
+T1,16.09.2018,Medipol Baþakþehir FK,Antalyaspor,4,0,H,1,0,H,15,8,6,3,11,8,4,2,0,2,0,0
+T1,16.09.2018,Atiker Konyaspor,Fenerbahçe SK,0,1,A,0,0,D,15,10,6,2,10,11,6,6,3,1,0,0
+T1,16.09.2018,Çaykur Rizespor,Bursaspor,1,1,D,0,1,A,12,9,5,4,25,19,3,3,0,2,0,0
+T1,16.09.2018,Sivasspor,BB Erzurumspor,2,2,D,1,1,D,20,11,7,5,12,10,3,2,0,2,0,0
+T1,17.09.2018,Alanyaspor,Trabzonspor,1,0,H,1,0,H,16,11,7,5,19,9,4,6,1,2,0,0
+T1,21.09.2018,Bursaspor,Medipol Baþakþehir FK,0,0,D,0,0,D,13,7,4,1,10,14,1,4,1,4,0,0
+T1,21.09.2018,BB Erzurumspor,MKE Ankaragücü,0,1,A,0,0,D,25,3,8,1,14,8,12,2,3,2,0,1
+T1,22.09.2018,Kayserispor,Atiker Konyaspor,0,2,A,0,2,A,17,8,4,5,18,7,6,5,1,2,0,0
+T1,22.09.2018,Trabzonspor,Göztepe SK,1,2,A,0,2,A,13,5,5,2,12,12,4,2,2,4,0,0
+T1,22.09.2018,Yeni Malatyaspor,Çaykur Rizespor,1,0,H,1,0,H,23,7,9,1,17,15,10,3,2,3,0,1
+T1,23.09.2018,Akhisar Belediyespor,Galatasaray SK,3,0,H,0,0,D,10,12,5,3,15,13,1,6,4,3,0,0
+T1,23.09.2018,Antalyaspor,Sivasspor,2,1,H,2,1,H,6,15,3,2,14,7,6,4,4,1,0,0
+T1,23.09.2018,Kasimpaþa SK,Alanyaspor,1,2,A,0,1,A,24,8,6,3,14,17,7,0,2,3,0,0
+T1,24.09.2018,Fenerbahçe SK,Beþiktaþ JK,1,1,D,0,1,A,13,11,7,4,13,16,2,7,1,5,0,1
+T1,28.09.2018,Galatasaray SK,BB Erzurumspor,1,0,H,0,0,D,12,10,7,1,12,12,10,6,3,2,0,0
+T1,29.09.2018,Alanyaspor,Akhisar Belediyespor,2,1,H,1,0,H,5,6,3,1,17,9,2,8,4,2,1,0
+T1,29.09.2018,Beþiktaþ JK,Kayserispor,2,0,H,1,0,H,12,9,4,3,10,11,6,3,1,0,0,0
+T1,29.09.2018,Trabzonspor,Kasimpaþa SK,4,2,H,1,2,A,19,16,7,9,14,11,7,6,2,3,0,0
+T1,30.09.2018,Göztepe SK,Atiker Konyaspor,3,2,H,2,0,H,13,10,9,2,11,15,7,6,3,4,0,0
+T1,30.09.2018,Çaykur Rizespor,Fenerbahçe SK,3,0,H,3,0,H,9,17,4,5,11,15,5,7,1,1,0,0
+T1,30.09.2018,Sivasspor,Bursaspor,2,0,H,1,0,H,9,7,3,3,23,14,5,6,2,4,0,0
+T1,1.10.2018,MKE Ankaragücü,Antalyaspor,0,1,A,0,1,A,14,11,3,6,10,18,5,8,2,5,0,0
+T1,1.10.2018,Medipol Baþakþehir FK,Yeni Malatyaspor,1,1,D,0,1,A,14,11,6,3,11,9,12,2,2,2,0,0
+T1,5.10.2018,Kasimpaþa SK,Göztepe SK,3,1,H,1,0,H,19,12,5,5,16,9,6,5,1,0,0,0
+T1,6.10.2018,Antalyaspor,Galatasaray SK,0,1,A,0,0,D,5,15,0,7,15,14,5,7,1,3,0,0
+T1,6.10.2018,Bursaspor,MKE Ankaragücü,1,0,H,1,0,H,13,7,5,2,19,11,10,5,1,0,0,0
+T1,6.10.2018,BB Erzurumspor,Alanyaspor,1,0,H,0,0,D,13,6,4,1,10,15,6,5,2,2,0,0
+T1,6.10.2018,Kayserispor,Çaykur Rizespor,2,2,D,0,1,A,14,6,4,2,11,14,5,6,1,3,1,1
+T1,7.10.2018,Akhisar Belediyespor,Trabzonspor,1,3,A,0,2,A,11,10,4,4,15,16,5,5,1,3,0,0
+T1,7.10.2018,Fenerbahçe SK,Medipol Baþakþehir FK,0,0,D,0,0,D,16,9,4,3,15,16,7,6,5,4,0,0
+T1,7.10.2018,Atiker Konyaspor,Beþiktaþ JK,2,2,D,1,0,H,15,7,5,4,18,10,9,4,6,7,0,1
+T1,7.10.2018,Yeni Malatyaspor,Sivasspor,4,4,D,1,3,A,23,12,8,5,13,13,5,3,3,4,0,1
+T1,19.10.2018,Galatasaray SK,Bursaspor,1,1,D,0,0,D,10,13,3,3,6,18,1,6,1,5,0,0
+T1,20.10.2018,Medipol Baþakþehir FK,Kayserispor,1,0,H,1,0,H,14,7,3,2,15,14,8,4,4,3,0,0
+T1,20.10.2018,Kasimpaþa SK,Akhisar Belediyespor,5,0,H,0,0,D,16,16,6,5,18,16,3,7,1,3,0,0
+T1,20.10.2018,Sivasspor,Fenerbahçe SK,0,0,D,0,0,D,17,13,4,4,14,14,3,4,2,1,0,0
+T1,21.10.2018,Alanyaspor,Antalyaspor,0,1,A,0,1,A,12,10,0,3,15,14,7,4,3,4,1,0
+T1,21.10.2018,MKE Ankaragücü,Yeni Malatyaspor,1,0,H,1,0,H,7,10,3,2,21,19,6,6,4,4,0,0
+T1,21.10.2018,Göztepe SK,Beþiktaþ JK,2,0,H,0,0,D,10,10,5,2,18,14,5,6,3,2,0,0
+T1,21.10.2018,Çaykur Rizespor,Atiker Konyaspor,1,1,D,1,0,H,9,14,3,4,20,21,3,7,2,0,1,0
+T1,22.10.2018,Trabzonspor,BB Erzurumspor,0,0,D,0,0,D,13,10,1,4,10,14,7,5,1,3,0,0
+T1,26.10.2018,Bursaspor,Alanyaspor,2,0,H,2,0,H,12,7,7,0,17,17,2,6,1,0,0,
+T1,27.10.2018,Antalyaspor,Trabzonspor,1,1,D,1,1,D,12,11,7,4,14,15,5,3,2,1,0,0
+T1,27.10.2018,BB Erzurumspor,Kasimpaþa SK,1,1,D,1,0,H,14,18,5,7,18,9,6,8,4,1,1,0
+T1,27.10.2018,Atiker Konyaspor,Medipol Baþakþehir FK,0,1,A,0,0,D,9,7,1,4,11,15,3,2,1,0,0,0
+T1,28.10.2018,Fenerbahçe SK,MKE Ankaragücü,1,3,A,0,1,A,13,17,3,8,16,21,5,7,4,5,1,0
+T1,28.10.2018,Kayserispor,Sivasspor,2,0,H,0,0,D,10,14,4,2,13,14,3,5,4,6,0,1
+T1,28.10.2018,Yeni Malatyaspor,Galatasaray SK,2,0,H,1,0,H,12,14,5,2,16,13,5,5,2,1,0,0
+T1,29.10.2018,Akhisar Belediyespor,Göztepe SK,1,0,H,1,0,H,11,13,4,3,18,14,3,3,3,4,0,0
+T1,29.10.2018,Beþiktaþ JK,Çaykur Rizespor,4,1,H,2,0,H,26,5,12,2,12,12,7,2,3,2,0,2
+T1,2.11.2018,Galatasaray SK,Fenerbahçe SK,2,2,D,1,0,H,16,17,3,5,9,16,6,4,1,4,0,0
+T1,3.11.2018,Akhisar Belediyespor,BB Erzurumspor,1,1,D,1,1,D,10,5,5,1,13,16,3,2,2,1,0,0
+T1,3.11.2018,Medipol Baþakþehir FK,Beþiktaþ JK,1,0,H,1,0,H,9,15,3,3,14,14,3,9,2,2,0,0
+T1,3.11.2018,Kasimpaþa SK,Antalyaspor,1,2,A,1,1,D,19,9,6,6,12,14,7,3,2,4,0,0
+T1,4.11.2018,Alanyaspor,Yeni Malatyaspor,0,1,A,0,1,A,17,2,6,1,20,20,10,0,2,3,0,0
+T1,4.11.2018,MKE Ankaragücü,Kayserispor,3,1,H,2,0,H,10,11,5,2,18,18,3,6,0,4,0,1
+T1,4.11.2018,Trabzonspor,Bursaspor,1,1,D,1,0,H,17,14,6,6,16,16,3,6,2,2,0,0
+T1,5.11.2018,Göztepe SK,Çaykur Rizespor,2,0,H,1,0,H,12,13,6,2,11,8,6,13,0,1,0,0
+T1,5.11.2018,Sivasspor,Atiker Konyaspor,0,0,D,0,0,D,17,10,3,2,23,13,12,3,2,4,0,1
+T1,9.11.2018,Yeni Malatyaspor,Trabzonspor,5,0,H,2,0,H,10,15,6,5,14,6,2,2,1,1,0,0
+T1,10.11.2018,BB Erzurumspor,Göztepe SK,2,1,H,1,0,H,7,9,4,3,14,9,2,6,2,2,0,0
+T1,10.11.2018,Kayserispor,Galatasaray SK,0,3,A,0,1,A,12,11,3,6,13,9,4,3,5,3,1,0
+T1,10.11.2018,Atiker Konyaspor,MKE Ankaragücü,2,0,H,0,0,D,15,7,3,2,15,16,3,4,1,2,0,0
+T1,10.11.2018,Çaykur Rizespor,Medipol Baþakþehir FK,1,2,A,0,0,D,6,13,2,4,14,10,4,4,2,1,0,0
+T1,11.11.2018,Antalyaspor,Akhisar Belediyespor,1,2,A,0,0,D,17,5,6,3,10,17,8,7,3,1,0,0
+T1,11.11.2018,Beþiktaþ JK,Sivasspor,1,2,A,1,1,D,9,10,2,3,14,14,6,5,4,3,0,0
+T1,11.11.2018,Bursaspor,Kasimpaþa SK,1,2,A,1,1,D,24,10,4,4,17,14,6,6,3,1,0,0
+T1,11.11.2018,Fenerbahçe SK,Alanyaspor,2,0,H,2,0,H,12,10,5,3,11,17,3,6,2,2,0,0
+T1,23.11.2018,Galatasaray SK,Atiker Konyaspor,1,1,D,0,0,D,13,8,2,2,12,14,0,3,1,3,1,0
+T1,24.11.2018,Alanyaspor,Kayserispor,5,0,H,1,0,H,15,5,10,1,20,11,9,2,3,5,0,0
+T1,24.11.2018,MKE Ankaragücü,Beþiktaþ JK,1,4,A,0,3,A,15,15,4,6,18,15,4,5,2,2,0,0
+T1,24.11.2018,BB Erzurumspor,Antalyaspor,1,0,H,0,0,D,14,7,2,1,12,12,7,3,3,0,0,0
+T1,25.11.2018,Akhisar Belediyespor,Bursaspor,2,4,A,2,1,H,6,19,3,7,13,11,3,7,0,2,0,0
+T1,25.11.2018,Kasimpaþa SK,Yeni Malatyaspor,3,0,H,1,0,H,21,17,9,2,19,9,7,4,2,1,0,0
+T1,25.11.2018,Sivasspor,Çaykur Rizespor,1,1,D,0,0,D,25,9,6,4,14,7,19,3,2,3,1,0
+T1,25.11.2018,Trabzonspor,Fenerbahçe SK,2,1,H,0,0,D,26,11,8,3,11,17,6,6,3,3,0,0
+T1,26.11.2018,Göztepe SK,Medipol Baþakþehir FK,0,2,A,0,1,A,15,15,4,7,8,13,7,1,4,3,0,0
+T1,30.11.2018,Atiker Konyaspor,Alanyaspor,2,0,H,0,0,D,9,8,4,2,10,10,2,3,3,2,0,1
+T1,30.11.2018,Çaykur Rizespor,MKE Ankaragücü,1,1,D,0,1,A,21,10,6,4,12,6,7,2,3,2,0,0
+T1,1.12.2018,Antalyaspor,Göztepe SK,1,0,H,1,0,H,8,15,4,3,17,17,6,4,1,1,0,0
+T1,1.12.2018,Medipol Baþakþehir FK,Sivasspor,0,1,A,0,1,A,16,9,2,1,8,15,6,0,3,3,0,0
+T1,1.12.2018,Kayserispor,Trabzonspor,0,2,A,0,0,D,7,18,2,7,15,16,2,5,5,1,0,0
+T1,2.12.2018,Beþiktaþ JK,Galatasaray SK,1,0,H,1,0,H,14,10,5,2,21,14,6,5,4,4,0,0
+T1,2.12.2018,Bursaspor,BB Erzurumspor,2,1,H,1,1,D,13,8,4,2,19,13,2,3,2,1,0,0
+T1,3.12.2018,Fenerbahçe SK,Kasimpaþa SK,2,2,D,2,1,H,21,16,3,3,11,19,8,2,3,1,0,0
+T1,3.12.2018,Yeni Malatyaspor,Akhisar Belediyespor,1,1,D,1,0,H,9,7,3,3,16,13,0,0,4,3,0,0
+T1,7.12.2018,Alanyaspor,Beþiktaþ JK,0,0,D,0,0,D,13,9,3,3,15,16,7,10,3,2,0,0
+T1,8.12.2018,Galatasaray SK,Çaykur Rizespor,2,2,D,1,0,H,20,18,8,8,11,12,8,4,2,1,0,0
+T1,8.12.2018,Sivasspor,Göztepe SK,2,0,H,0,0,D,15,7,6,1,13,13,7,3,3,4,0,1
+T1,8.12.2018,Trabzonspor,Atiker Konyaspor,3,0,H,0,0,D,18,7,6,2,13,13,5,2,2,3,0,0
+T1,9.12.2018,Akhisar Belediyespor,Fenerbahçe SK,3,0,H,1,0,H,12,16,4,4,13,7,2,7,2,1,0,0
+T1,9.12.2018,Bursaspor,Antalyaspor,0,2,A,0,2,A,13,6,4,3,21,11,9,0,4,1,0,0
+T1,9.12.2018,BB Erzurumspor,Yeni Malatyaspor,1,3,A,1,0,H,15,9,5,5,10,15,9,4,0,3,0,0
+T1,10.12.2018,MKE Ankaragücü,Medipol Baþakþehir FK,0,1,A,0,1,A,8,15,1,8,10,14,0,7,0,1,0,0
+T1,10.12.2018,Kasimpaþa SK,Kayserispor,0,3,A,0,1,A,25,17,5,10,13,15,11,3,3,2,0,0
+T1,14.12.2018,Göztepe SK,Bursaspor,0,0,D,0,0,D,8,6,2,3,15,13,3,6,1,3,0,0
+T1,15.12.2018,Medipol Baþakþehir FK,Galatasaray SK,1,1,D,1,1,D,17,9,5,4,12,13,7,2,4,2,0,0
+T1,15.12.2018,Atiker Konyaspor,Kasimpaþa SK,3,2,H,0,0,D,10,20,3,6,9,10,3,8,2,6,0,0
+T1,15.12.2018,Çaykur Rizespor,Alanyaspor,1,1,D,0,1,A,16,16,8,6,19,17,9,5,4,3,0,0
+T1,15.12.2018,Sivasspor,MKE Ankaragücü,4,0,H,2,0,H,19,10,8,4,13,12,9,6,1,4,0,0
+T1,16.12.2018,Beþiktaþ JK,Trabzonspor,2,2,D,0,1,A,18,14,8,7,16,14,10,8,3,1,0,0
+T1,16.12.2018,Kayserispor,Akhisar Belediyespor,1,0,H,0,0,D,13,7,5,2,19,8,3,6,2,1,0,0
+T1,16.12.2018,Yeni Malatyaspor,Antalyaspor,2,0,H,2,0,H,12,8,3,1,16,18,2,2,2,4,1,1
+T1,17.12.2018,Fenerbahçe SK,BB Erzurumspor,2,2,D,2,0,H,14,6,5,3,11,17,7,1,0,3,0,0
+T1,22.12.2018,Alanyaspor,Medipol Baþakþehir FK,1,1,D,0,1,A,13,12,7,6,13,12,1,3,3,2,1,0
+T1,22.12.2018,MKE Ankaragücü,Göztepe SK,0,3,A,0,0,D,13,11,1,4,16,18,4,3,2,1,0,0
+T1,22.12.2018,Kasimpaþa SK,Beþiktaþ JK,4,1,H,2,0,H,12,16,7,6,14,15,4,3,3,3,0,0
+T1,23.12.2018,Bursaspor,Yeni Malatyaspor,1,1,D,1,0,H,8,4,2,1,13,11,5,1,1,3,0,1
+T1,23.12.2018,BB Erzurumspor,Kayserispor,1,1,D,1,1,D,20,7,5,3,14,12,5,3,2,6,0,0
+T1,23.12.2018,Galatasaray SK,Sivasspor,4,2,H,2,2,D,15,16,5,7,18,4,7,5,2,2,0,0
+T1,23.12.2018,Trabzonspor,Çaykur Rizespor,4,1,H,1,0,H,18,13,5,6,18,9,6,4,4,2,0,0
+T1,24.12.2018,Akhisar Belediyespor,Atiker Konyaspor,0,0,D,0,0,D,8,10,3,3,14,15,0,4,3,3,0,0
+T1,24.12.2018,Antalyaspor,Fenerbahçe SK,0,0,D,0,0,D,7,19,3,6,12,11,2,9,1,4,0,1
+T1,18.01.2019,Akhisar Belediyespor,Beþiktaþ JK,1,3,A,0,1,A,15,11,5,5,12,18,8,2,3,4,0,0
+T1,19.01.2019,Antalyaspor,Kayserispor,0,0,D,0,0,D,3,16,0,2,13,13,2,6,0,1,0,0
+T1,19.01.2019,BB Erzurumspor,Atiker Konyaspor,1,2,A,0,1,A,14,10,3,4,11,15,8,4,3,4,0,0
+T1,19.01.2019,Galatasaray SK,MKE Ankaragücü,6,0,H,3,0,H,23,11,10,3,13,13,0,2,3,3,0,0
+T1,19.01.2019,Yeni Malatyaspor,Göztepe SK,3,2,H,2,2,D,9,10,5,3,13,11,2,11,1,1,0,0
+T1,20.01.2019,Alanyaspor,Sivasspor,2,0,H,2,0,H,19,9,8,0,13,15,8,2,0,3,0,0
+T1,20.01.2019,Trabzonspor,Medipol Baþakþehir FK,2,4,A,0,2,A,20,10,10,8,17,15,8,4,3,2,0,0
+T1,21.01.2019,Bursaspor,Fenerbahçe SK,1,1,D,0,1,A,13,5,4,3,18,18,3,7,4,2,0,0
+T1,21.01.2019,Kasimpaþa SK,Çaykur Rizespor,0,1,A,0,1,A,22,7,6,2,13,19,10,3,2,4,0,0
+T1,25.01.2019,Beþiktaþ JK,BB Erzurumspor,1,1,D,0,0,D,15,10,5,3,15,14,11,2,4,4,1,0
+T1,26.01.2019,Göztepe SK,Galatasaray SK,0,1,A,0,0,D,16,9,1,6,17,12,13,3,3,3,0,0
+T1,26.01.2019,Kayserispor,Bursaspor,1,1,D,0,1,A,7,12,4,3,15,9,8,7,2,2,1,0
+T1,27.01.2019,Atiker Konyaspor,Antalyaspor,2,0,H,1,0,H,11,7,4,2,19,10,5,1,1,1,0,0
+T1,27.01.2019,Çaykur Rizespor,Akhisar Belediyespor,3,1,H,0,1,A,25,9,6,4,16,13,6,1,2,1,0,1
+T1,27.01.2019,Sivasspor,Trabzonspor,1,1,D,0,0,D,15,15,5,6,11,14,3,5,0,1,0,0
+T1,28.01.2019,MKE Ankaragücü,Alanyaspor,0,2,A,0,1,A,8,10,3,3,14,21,4,3,5,1,0,0
+T1,28.01.2019,Medipol Baþakþehir FK,Kasimpaþa SK,2,0,H,1,0,H,16,9,5,2,18,9,7,2,2,0,0,0
+T1,28.01.2019,Fenerbahçe SK,Yeni Malatyaspor,3,2,H,2,2,D,19,8,8,4,21,20,6,4,6,4,0,0
+T1,1.02.2019,Fenerbahçe SK,Göztepe SK,2,0,H,1,0,H,12,6,4,3,16,15,3,2,3,3,0,1
+T1,2.02.2019,Alanyaspor,Galatasaray SK,1,1,D,1,0,H,13,5,7,3,22,18,2,3,3,5,0,0
+T1,2.02.2019,Kasimpaþa SK,Sivasspor,1,3,A,1,1,D,5,21,3,8,15,10,3,11,3,0,0,0
+T1,2.02.2019,Trabzonspor,MKE Ankaragücü,1,0,H,1,0,H,21,13,8,5,19,17,2,5,4,3,0,0
+T1,2.02.2019,Yeni Malatyaspor,Kayserispor,1,1,D,1,1,D,7,7,5,4,11,16,4,3,0,3,0,0
+T1,3.02.2019,Akhisar Belediyespor,Medipol Baþakþehir FK,0,3,A,0,2,A,22,18,6,6,14,17,5,3,4,3,0,0
+T1,3.02.2019,Antalyaspor,Beþiktaþ JK,2,6,A,0,3,A,11,13,4,7,12,14,7,7,3,2,0,0
+T1,3.02.2019,BB Erzurumspor,Çaykur Rizespor,0,1,A,0,0,D,10,6,2,1,15,14,17,1,1,1,0,0
+T1,4.02.2019,Bursaspor,Atiker Konyaspor,0,0,D,0,0,D,17,4,3,3,11,15,4,4,0,2,0,0
+T1,8.02.2019,Kayserispor,Fenerbahçe SK,1,0,H,0,0,D,13,8,5,2,15,18,3,5,2,5,0,2
+T1,9.02.2019,Beþiktaþ JK,Bursaspor,2,0,H,1,0,H,11,8,7,3,17,14,4,3,1,1,0,0
+T1,9.02.2019,Medipol Baþakþehir FK,BB Erzurumspor,1,1,D,1,0,H,9,13,2,2,21,12,3,6,3,1,0,0
+T1,9.02.2019,Çaykur Rizespor,Antalyaspor,1,1,D,1,0,H,20,25,5,4,15,13,7,8,2,1,0,0
+T1,10.02.2019,Galatasaray SK,Trabzonspor,3,1,H,2,1,H,18,14,9,4,17,12,4,9,4,1,0,0
+T1,10.02.2019,Göztepe SK,Alanyaspor,3,2,H,2,1,H,14,14,7,6,13,14,1,5,8,4,1,0
+T1,10.02.2019,Atiker Konyaspor,Yeni Malatyaspor,1,1,D,0,0,D,8,8,4,3,12,18,4,1,0,0,0,0
+T1,11.02.2019,MKE Ankaragücü,Kasimpaþa SK,3,0,H,1,0,H,8,15,5,2,16,12,4,4,3,1,0,0
+T1,11.02.2019,Sivasspor,Akhisar Belediyespor,2,1,H,1,0,H,13,13,6,3,18,13,3,8,4,2,1,0
+T1,15.02.2019,Yeni Malatyaspor,Beþiktaþ JK,1,2,A,0,0,D,4,18,1,7,8,20,3,10,1,1,1,0
+T1,16.02.2019,Akhisar Belediyespor,MKE Ankaragücü,0,0,D,0,0,D,17,9,8,2,11,23,9,0,4,4,0,1
+T1,16.02.2019,Bursaspor,Çaykur Rizespor,0,2,A,0,1,A,17,5,2,5,14,22,8,4,3,2,0,0
+T1,16.02.2019,Fenerbahçe SK,Atiker Konyaspor,1,1,D,1,1,D,17,3,3,2,16,10,11,3,3,1,0,1
+T1,17.02.2019,BB Erzurumspor,Sivasspor,4,2,H,2,1,H,12,18,6,6,15,13,2,5,2,5,0,0
+T1,17.02.2019,Kasimpaþa SK,Galatasaray SK,1,4,A,1,2,A,13,10,5,6,16,10,8,4,3,5,0,0
+T1,17.02.2019,Kayserispor,Göztepe SK,2,1,H,1,0,H,15,8,4,2,10,10,2,5,4,1,0,0
+T1,17.02.2019,Trabzonspor,Alanyaspor,0,2,A,0,0,D,13,10,2,6,17,17,4,2,1,2,0,0
+T1,18.02.2019,Antalyaspor,Medipol Baþakþehir FK,0,1,A,0,1,A,8,17,3,8,12,15,8,5,3,2,0,0
+T1,22.02.2019,Göztepe SK,Trabzonspor,1,3,A,0,1,A,8,13,1,6,13,9,10,3,2,1,0,0
+T1,22.02.2019,Çaykur Rizespor,Yeni Malatyaspor,3,0,H,1,0,H,14,11,6,3,11,18,3,2,2,3,0,0
+T1,23.02.2019,Alanyaspor,Kasimpaþa SK,3,0,H,1,0,H,19,5,9,2,16,16,5,6,3,2,0,1
+T1,23.02.2019,Medipol Baþakþehir FK,Bursaspor,3,0,H,2,0,H,11,14,6,3,13,13,3,5,0,2,0,0
+T1,23.02.2019,Sivasspor,Antalyaspor,1,2,A,0,2,A,11,8,4,4,17,9,7,5,1,2,0,0
+T1,24.02.2019,MKE Ankaragücü,BB Erzurumspor,2,1,H,1,0,H,14,14,6,6,23,12,2,6,2,2,0,1
+T1,24.02.2019,Galatasaray SK,Akhisar Belediyespor,1,0,H,0,0,D,21,4,6,1,15,24,15,2,2,6,0,0
+T1,24.02.2019,Atiker Konyaspor,Kayserispor,0,1,A,0,0,D,8,10,1,2,7,10,6,4,2,1,0,0
+T1,25.02.2019,Beþiktaþ JK,Fenerbahçe SK,3,3,D,3,0,H,9,17,5,4,22,19,3,5,2,4,0,0
+T1,1.03.2019,Antalyaspor,MKE Ankaragücü,2,4,A,2,3,A,17,10,5,4,8,23,4,4,3,6,0,0
+T1,2.03.2019,Bursaspor,Sivasspor,3,2,H,1,1,D,12,4,5,3,21,10,7,1,3,1,0,0
+T1,2.03.2019,Fenerbahçe SK,Çaykur Rizespor,3,2,H,2,1,H,22,9,7,4,13,13,9,2,2,4,0,1
+T1,2.03.2019,Kayserispor,Beþiktaþ JK,2,2,D,0,1,A,14,10,5,4,16,11,4,7,3,3,0,0
+T1,3.03.2019,BB Erzurumspor,Galatasaray SK,1,1,D,1,0,H,18,14,6,4,11,11,6,9,0,1,0,0
+T1,3.03.2019,Atiker Konyaspor,Göztepe SK,1,1,D,1,0,H,13,12,7,2,14,11,3,5,3,4,0,1
+T1,3.03.2019,Yeni Malatyaspor,Medipol Baþakþehir FK,0,2,A,0,1,A,9,9,2,5,10,12,4,3,2,3,0,0
+T1,4.03.2019,Akhisar Belediyespor,Alanyaspor,3,1,H,0,0,D,8,8,4,1,20,21,5,4,1,2,0,0
+T1,4.03.2019,Kasimpaþa SK,Trabzonspor,2,2,D,0,2,A,14,10,8,5,13,12,6,1,4,2,0,0
+T1,8.03.2019,Sivasspor,Yeni Malatyaspor,2,0,H,2,0,H,13,10,5,3,18,17,6,9,1,3,0,0
+T1,9.03.2019,MKE Ankaragücü,Bursaspor,0,0,D,0,0,D,10,12,4,2,11,7,5,4,1,1,0,0
+T1,9.03.2019,Medipol Baþakþehir FK,Fenerbahçe SK,2,1,H,1,0,H,17,12,3,4,14,10,3,4,2,2,0,0
+T1,9.03.2019,Trabzonspor,Akhisar Belediyespor,2,1,H,0,0,D,17,10,8,4,20,21,7,0,5,3,0,0
+T1,10.03.2019,Alanyaspor,BB Erzurumspor,2,1,H,1,0,H,18,6,6,3,13,21,6,2,1,2,0,0
+T1,10.03.2019,Beþiktaþ JK,Atiker Konyaspor,3,2,H,2,1,H,20,4,12,3,14,20,9,1,2,3,0,0
+T1,10.03.2019,Göztepe SK,Kasimpaþa SK,0,0,D,0,0,D,12,4,2,2,14,25,7,1,1,3,0,0
+T1,10.03.2019,Çaykur Rizespor,Kayserispor,3,0,H,1,0,H,12,16,6,4,14,10,4,5,3,1,0,0
+T1,11.03.2019,Galatasaray SK,Antalyaspor,5,0,H,1,0,H,15,14,7,7,5,11,6,6,2,1,0,0
+T1,15.03.2019,Fenerbahçe SK,Sivasspor,2,1,H,0,0,D,15,11,5,2,10,20,9,7,3,2,0,0
+T1,16.03.2019,Akhisar Belediyespor,Kasimpaþa SK,2,3,A,1,1,D,15,16,7,7,11,15,7,6,1,0,0,0
+T1,16.03.2019,Antalyaspor,Alanyaspor,3,0,H,2,0,H,9,12,4,5,17,10,1,5,3,2,0,0
+T1,16.03.2019,Beþiktaþ JK,Göztepe SK,1,0,H,0,0,D,6,13,1,5,20,13,3,4,0,2,0,0
+T1,16.03.2019,BB Erzurumspor,Trabzonspor,0,1,A,0,0,D,20,13,7,3,11,13,3,4,2,3,0,0
+T1,16.03.2019,Atiker Konyaspor,Çaykur Rizespor,0,2,A,0,1,A,9,10,1,4,16,17,6,3,1,2,1,0
+T1,17.03.2019,Bursaspor,Galatasaray SK,2,3,A,2,1,H,13,9,5,3,13,8,5,3,2,6,0,0
+T1,17.03.2019,Kayserispor,Medipol Baþakþehir FK,1,1,D,1,0,H,12,34,6,10,14,9,1,15,2,1,0,0
+T1,17.03.2019,Yeni Malatyaspor,MKE Ankaragücü,3,1,H,0,0,D,8,11,4,3,12,15,4,4,2,2,0,0
+T1,5.04.2019,Trabzonspor,Antalyaspor,4,1,H,1,1,D,21,12,7,3,12,12,8,1,1,1,0,0
+T1,6.04.2019,Alanyaspor,Bursaspor,1,0,H,0,0,D,18,10,4,3,15,13,4,2,6,2,0,0
+T1,6.04.2019,Galatasaray SK,Yeni Malatyaspor,3,0,H,1,0,H,25,8,6,2,9,14,12,1,2,2,0,0
+T1,6.04.2019,Sivasspor,Kayserispor,1,3,A,0,3,A,17,10,8,8,14,14,4,4,2,3,0,0
+T1,7.04.2019,MKE Ankaragücü,Fenerbahçe SK,1,1,D,1,0,H,12,14,3,6,20,8,5,7,4,3,1,1
+T1,7.04.2019,Medipol Baþakþehir FK,Atiker Konyaspor,2,0,H,0,0,D,15,13,4,4,9,11,8,5,1,2,0,0
+T1,7.04.2019,Göztepe SK,Akhisar Belediyespor,0,1,A,0,0,D,19,12,5,3,15,15,14,7,3,3,0,0
+T1,7.04.2019,Kasimpaþa SK,BB Erzurumspor,2,1,H,1,0,H,19,13,5,3,15,11,6,4,1,1,0,0
+T1,8.04.2019,Çaykur Rizespor,Beþiktaþ JK,2,7,A,1,2,A,19,11,6,11,8,10,3,2,1,2,0,0
+T1,12.04.2019,Bursaspor,Trabzonspor,0,1,A,0,0,D,18,11,3,3,18,11,10,7,3,3,0,0
+T1,13.04.2019,Beþiktaþ JK,Medipol Baþakþehir FK,2,1,H,1,1,D,15,13,6,5,16,18,10,4,2,2,0,0
+T1,13.04.2019,Atiker Konyaspor,Sivasspor,1,1,D,1,1,D,6,8,3,3,13,10,0,4,2,1,0,0
+T1,13.04.2019,Çaykur Rizespor,Göztepe SK,1,0,H,0,0,D,15,8,8,2,18,15,3,6,2,1,0,0
+T1,14.04.2019,Antalyaspor,Kasimpaþa SK,1,0,H,1,0,H,10,25,5,7,17,13,4,5,2,2,1,0
+T1,14.04.2019,Fenerbahçe SK,Galatasaray SK,1,1,D,0,0,D,6,14,2,2,16,12,2,5,5,4,1,0
+T1,14.04.2019,Kayserispor,MKE Ankaragücü,0,2,A,0,0,D,12,12,3,6,6,13,2,6,0,1,0,0
+T1,14.04.2019,Yeni Malatyaspor,Alanyaspor,1,1,D,1,1,D,18,8,5,4,14,15,3,4,1,5,1,1
+T1,15.04.2019,BB Erzurumspor,Akhisar Belediyespor,2,1,H,0,0,D,16,13,5,8,11,9,6,3,1,2,0,0
+T1,19.04.2019,Kasimpaþa SK,Bursaspor,1,1,D,0,0,D,10,17,2,5,16,15,3,4,2,1,0,0
+T1,20.04.2019,Akhisar Belediyespor,Antalyaspor,1,2,A,0,2,A,21,10,9,6,15,8,17,1,2,2,0,0
+T1,20.04.2019,Galatasaray SK,Kayserispor,3,1,H,3,1,H,17,11,7,5,9,16,6,3,3,5,0,1
+T1,20.04.2019,Göztepe SK,BB Erzurumspor,0,1,A,0,1,A,22,11,5,6,17,12,11,6,2,3,0,0
+T1,20.04.2019,Trabzonspor,Yeni Malatyaspor,2,1,H,1,1,D,20,11,8,3,13,15,7,3,2,3,0,1
+T1,21.04.2019,Alanyaspor,Fenerbahçe SK,1,0,H,0,0,D,25,7,8,1,12,14,10,4,0,1,0,0
+T1,21.04.2019,MKE Ankaragücü,Atiker Konyaspor,0,0,D,0,0,D,14,12,6,1,15,15,1,4,1,2,0,0
+T1,21.04.2019,Medipol Baþakþehir FK,Çaykur Rizespor,1,1,D,0,0,D,16,9,5,1,14,19,7,2,0,4,0,0
+T1,22.04.2019,Sivasspor,Beþiktaþ JK,1,2,A,1,1,D,8,21,4,6,18,15,4,8,1,3,0,0
+T1,26.04.2019,Medipol Baþakþehir FK,Göztepe SK,0,2,A,0,1,A,23,8,5,4,11,10,9,1,2,1,0,0
+T1,27.04.2019,Antalyaspor,BB Erzurumspor,1,1,D,1,0,H,11,17,2,4,7,8,2,5,1,1,0,0
+T1,27.04.2019,Fenerbahçe SK,Trabzonspor,1,1,D,0,1,A,16,17,5,5,17,20,5,2,5,2,1,0
+T1,27.04.2019,Çaykur Rizespor,Sivasspor,0,0,D,0,0,D,23,6,5,3,10,11,5,2,1,3,0,0
+T1,28.04.2019,Beþiktaþ JK,MKE Ankaragücü,4,1,H,1,0,H,10,15,5,8,15,18,2,9,2,3,0,0
+T1,28.04.2019,Bursaspor,Akhisar Belediyespor,0,0,D,0,0,D,20,11,2,2,17,14,7,4,1,3,0,0
+T1,28.04.2019,Kayserispor,Alanyaspor,1,1,D,1,1,D,13,15,7,3,16,16,2,6,2,3,0,0
+T1,29.04.2019,Atiker Konyaspor,Galatasaray SK,0,0,D,0,0,D,4,11,2,0,8,6,4,7,1,1,0,0
+T1,29.04.2019,Yeni Malatyaspor,Kasimpaþa SK,2,1,H,0,1,A,12,12,5,6,9,15,12,3,3,5,0,0
+T1,3.05.2019,Sivasspor,Medipol Baþakþehir FK,0,0,D,0,0,D,5,12,1,5,15,16,2,9,3,4,0,0
+T1,4.05.2019,MKE Ankaragücü,Çaykur Rizespor,2,2,D,0,1,A,10,16,3,5,15,13,7,4,5,2,0,0
+T1,4.05.2019,BB Erzurumspor,Bursaspor,2,0,H,0,0,D,8,15,3,2,9,11,4,7,3,2,0,0
+T1,4.05.2019,Kasimpaþa SK,Fenerbahçe SK,1,3,A,1,1,D,9,14,2,6,15,12,5,9,5,0,0,0
+T1,5.05.2019,Akhisar Belediyespor,Yeni Malatyaspor,0,2,A,0,0,D,19,12,5,4,13,16,5,3,2,3,0,0
+T1,5.05.2019,Galatasaray SK,Beþiktaþ JK,2,0,H,1,0,H,16,14,7,5,14,17,5,3,2,7,0,0
+T1,5.05.2019,Göztepe SK,Antalyaspor,4,1,H,2,1,H,17,9,11,1,7,9,6,0,0,6,0,1
+T1,6.05.2019,Alanyaspor,Atiker Konyaspor,2,4,A,1,2,A,18,8,7,4,16,13,11,6,3,6,0,0
+T1,6.05.2019,Trabzonspor,Kayserispor,4,2,H,2,1,H,19,16,7,4,14,10,5,3,2,3,0,0
+T1,10.05.2019,Antalyaspor,Bursaspor,0,1,A,0,1,A,3,16,1,5,13,20,0,8,4,3,1,0
+T1,11.05.2019,Fenerbahçe SK,Akhisar Belediyespor,2,1,H,2,1,H,10,5,5,1,17,26,2,1,3,3,0,0
+T1,11.05.2019,Göztepe SK,Sivasspor,3,3,D,1,2,A,20,9,8,4,14,10,6,1,3,0,1,0
+T1,11.05.2019,Çaykur Rizespor,Galatasaray SK,2,3,A,1,1,D,13,12,3,5,17,10,3,1,5,1,1,0
+T1,12.05.2019,Medipol Baþakþehir FK,MKE Ankaragücü,2,1,H,0,1,A,20,8,7,1,12,12,5,2,0,1,0,0
+T1,12.05.2019,Kayserispor,Kasimpaþa SK,2,1,H,0,1,A,19,7,6,6,11,15,13,5,4,4,0,1
+T1,12.05.2019,Atiker Konyaspor,Trabzonspor,2,2,D,2,1,H,7,19,4,6,13,11,5,5,4,1,0,0
+T1,12.05.2019,Yeni Malatyaspor,BB Erzurumspor,3,1,H,0,0,D,15,21,9,5,16,18,4,9,3,3,0,0
+T1,13.05.2019,Beþiktaþ JK,Alanyaspor,2,1,H,1,1,D,12,9,4,3,17,20,2,5,2,1,0,0
+T1,17.05.2019,Kasimpaþa SK,Atiker Konyaspor,1,1,D,0,1,A,18,12,3,4,13,9,6,7,1,1,0,0
+T1,18.05.2019,Antalyaspor,Yeni Malatyaspor,3,0,H,1,0,H,17,12,5,2,16,13,5,4,2,4,0,1
+T1,18.05.2019,Trabzonspor,Beþiktaþ JK,2,1,H,0,0,D,19,8,8,3,12,9,7,4,3,2,0,0
+T1,19.05.2019,Akhisar Belediyespor,Kayserispor,2,2,D,1,0,H,16,21,4,8,15,10,5,7,3,2,0,0
+T1,19.05.2019,Alanyaspor,Çaykur Rizespor,1,1,D,1,0,H,16,12,5,3,14,17,5,6,3,1,0,0
+T1,19.05.2019,Bursaspor,Göztepe SK,0,0,D,0,0,D,14,2,3,1,19,10,5,2,3,1,0,0
+T1,19.05.2019,Galatasaray SK,Medipol Baþakþehir FK,2,1,H,0,1,A,15,5,4,2,14,12,8,1,4,3,0,0
+T1,20.05.2019,MKE Ankaragücü,Sivasspor,3,1,H,2,0,H,14,10,6,4,15,7,8,3,4,1,0,0
+T1,20.05.2019,BB Erzurumspor,Fenerbahçe SK,0,1,A,0,0,D,14,10,3,3,8,13,8,2,4,5,0,0
+T1,24.05.2019,Beþiktaþ JK,Kasimpaþa SK,3,2,H,3,1,H,13,16,4,6,12,10,3,5,3,0,1,0
+T1,24.05.2019,Medipol Baþakþehir FK,Alanyaspor,1,1,D,1,1,D,11,17,3,7,12,9,5,6,0,0,0,0
+T1,24.05.2019,Çaykur Rizespor,Trabzonspor,2,3,A,1,3,A,20,21,5,8,12,6,7,6,1,1,0,0
+T1,24.05.2019,Sivasspor,Galatasaray SK,4,3,H,2,2,D,30,7,14,4,10,10,9,1,2,1,0,0
+T1,25.05.2019,Atiker Konyaspor,Akhisar Belediyespor,0,0,D,0,0,D,18,14,7,5,9,10,6,5,2,0,0,0
+T1,26.05.2019,Fenerbahçe SK,Antalyaspor,3,1,H,1,1,D,17,16,6,3,16,12,4,4,1,3,0,0
+T1,26.05.2019,Göztepe SK,MKE Ankaragücü,2,1,H,1,0,H,11,7,5,4,8,23,4,6,0,2,0,0
+T1,26.05.2019,Kayserispor,BB Erzurumspor,0,2,A,0,2,A,20,16,7,6,9,9,10,4,0,0,1,0
+T1,26.05.2019,Yeni Malatyaspor,Bursaspor,1,2,A,0,2,A,10,9,4,5,8,22,5,2,7,3,2,1
