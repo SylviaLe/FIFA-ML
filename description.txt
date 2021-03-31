@@ -200,6 +200,11 @@ Betting odds for weekend games are collected Friday afternoons, and on Tuesday a
 
 Additional match statistics (corners, shots, bookings, referee etc.) for the 2000/01 and 2001/02 seasons for the English, Scottish and German leagues were provided by Sports.com (now under new ownership and no longer available).
 
++++++++++++++++++++++++++++++++++++++++++
+PLAYER ATTRIBUTES OF INTEREST:
+
+age, height_cm, weight_kg, club, overall, wage, preferred_foot, pace, shooting, passing, dribbling, defending, gk_handling, gk_speed, gk_kicking, gk_diving, gk_positioning
+
 
 +++++++++++++++++++++++++++++++++++++++++
 QUESTION WE WANT TO ANSWER:
