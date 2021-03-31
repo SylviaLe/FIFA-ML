@@ -1,0 +1,7 @@
+- In match result, may code an extra colunm to Win/Lose
+- We may use the stats from year 2018 + the match result in 2018 and 2019 to make predictions to the stats
+on 2019
+Or if you want to make thing easier, how the wage is affected by other attrs
+- Need to reduce number of categories (somehow match the team)
+
+- The similar project link: https://www.kaggle.com/cankumru/champions-league-19-20-group-standings-prediction
