@@ -82,6 +82,9 @@ PLAYER ATTRIBUTES OF INTEREST:
 
 age, height_cm, weight_kg, club, overall, wage, preferred_foot, pace, shooting, passing, dribbling, defending, gk_handling, gk_speed, gk_kicking, gk_diving, gk_positioning
 
+MATCH RESULT ATTRS OF INTEREST:
+AG, HG, FTR, Home/Away Team
+Other attrs will be further considered to include in or will be drop either manually or during preprocessing
 
 +++++++++++++++++++++++++++++++++++++++++
 QUESTION WE WANT ARE CONSIDERING TO ANSWER:
