@@ -1,0 +1,9 @@
+TITLE OF THE PROJECT: Factors that contribute to the success of a soccer team: wage distribution, skill or type of player?
+
+Soccer teams with star players like Lionel Messi and Cristiano Ronaldo has greatly imbalance distribution of wage. With no surprise, teams like these are 
+also very successful in terms of matches result. At the same time, there are also successful teams with a much more balance wage distribution. Therefore, 
+we are interested to see how chance of winning a match is affected by the distribution of wage, and can we reliably predict it? In addition we want to see
+what type of players, in terms of 1. skills (denote by attrs) and 2. role, contribute most to the chance of winning.
+
+With this project we hope to be able to better explain the income inequalities in football teams. And by looking at some additional factors, we want to help 
+teams make better investment by deciding what type of players should they focus on more
