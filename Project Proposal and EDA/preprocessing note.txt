@@ -1,4 +1,0 @@
-- The similar project link: https://www.kaggle.com/cankumru/champions-league-19-20-group-standings-prediction
-
-- How even distribution of wage correlate with the more chance of winning
-  What type of player in term of skill, lead to higher chance of winning
